@@ -1,7 +1,7 @@
-Manual de Utiliza??o - CatecheSis
+Manual do Utilizador - CatecheSis
 #################################
 
-*A presente p?gina tem como objetivo apresentar e descrever o funcionamento do CatecheSis*
+*A presente página tem como objetivo apresentar e descrever o funcionamento do CatecheSis*
 
 .. toctree::
    :maxdepth: 4

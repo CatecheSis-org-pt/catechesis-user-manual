@@ -94,7 +94,7 @@ html_theme_options = {
     "master_doc": False,
     }
 
-language = "pt"
+language = "pt_PT"
 html_last_updated_fmt = ""
 
 todo_include_todos = True
