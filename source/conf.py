@@ -9,10 +9,9 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-from distutils.version import LooseVersion
 import os
 
-import sphinx_material
+import sphinx_rtd_theme
 from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
@@ -23,8 +22,7 @@ html_title = "Manual de Utilização - CatecheSis"
 copyright = '2021, CatecheSis'
 author = 'CatecheSis'
 
-# The full version, including alpha/beta/rc tags
-release = LooseVersion(sphinx_material.__version__).vstring
+
 
 # -- General configuration ---------------------------------------------------
 
@@ -44,13 +42,14 @@ extensions = [
     "recommonmark",
     "sphinx_markdown_tables",
     "sphinx_copybutton",
+    "sphinx_rtd_theme"
 ]
 
 autosummary_generate = True
 autoclass_content = "class"
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ["_templates"]
+#templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -67,32 +66,8 @@ html_static_path = ["_static"]
 # -- HTML theme settings ------------------------------------------------
 
 html_show_sourcelink = True
-html_sidebars = {
-    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
-}
-
-extensions.append("sphinx_material")
-html_theme_path = sphinx_material.html_theme_path()
-html_context = sphinx_material.get_html_context()
-html_theme = "sphinx_material"
+html_theme = "sphinx_rtd_theme"
 html_logo = "./logos/AF_CatecheSis_Logo_Navbar.png"
-
-# material theme options (see theme.conf for more information)
-html_theme_options = {
-    "base_url": "https://catechesis.org.pt/catechesis-test/",
-    #"repo_url": "https://github.com/.../...",
-    #"repo_name": "Manual de Utilização - CatecheSis",
-    "google_analytics_account": "UA-XXXXX",
-    "html_minify": False,
-    "html_prettify": True,
-    "css_minify": True,
-    "repo_type": "github",
-    "globaltoc_depth": 2,
-    "color_primary": "blue", #'#008fcf' - Cor do Azul do Cate,
-    "color_accent": "black",
-    "theme_color": "blue", 
-    "master_doc": False,
-    }
 
 language = "pt_PT"
 html_last_updated_fmt = ""
