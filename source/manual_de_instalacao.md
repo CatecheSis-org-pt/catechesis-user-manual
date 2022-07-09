@@ -60,7 +60,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 1. Inicie um navegador *web* e aceda ao endereço `https://<URL_do_CatecheSis>/setup`, onde `<URL_do_CatecheSis>` designa o endereço onde ficará disponível o CatecheSis (por exemplo: *aminhaparoquia.pt/catechesis*).
 
     Deverá ser mostrada a seguinte página:
-    ![](img/Assistente_de_instalacao_1.png)
+    ![](img/setup/Assistente_de_instalacao_1.png)
 
 2. Faça clique em *Seguinte*.
 
@@ -78,10 +78,10 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
     </div>
 
    Se não forem detetados problemas, surgirá uma caixa verde. Clique em *Seguinte* para continuar.
-   ![](img/Assistente_de_instalacao_3.png)
+   ![](img/setup/Assistente_de_instalacao_3.png)
 
 5. Escolha uma diretoria no seu servidor para armazenar os dados gerados pelo CatecheSis, tais como documentos carregados e fotografias, e escreva-a na caixa.
-   ![](img/Assistente_de_instalacao_4.png)
+   ![](img/setup/Assistente_de_instalacao_4.png)
    Esta diretoria *não* deverá existir ainda no seu servidor, pois será criada pelo assistente.
    
    **Certifique-se de que esta diretoria não é servida pelo seu servidor web**, isto é, que não é acessível publicamente através de um browser.
@@ -102,7 +102,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
    A palavra-passe deve ter, no mínimo, 10 caracteres, contendo letras, dígitos e símbolos especiais.
    
-   ![](img/Assistente_de_instalacao_6.png)
+   ![](img/setup/Assistente_de_instalacao_6.png)
    
    <div class="info">
       <p><b>NOTA:</b> 

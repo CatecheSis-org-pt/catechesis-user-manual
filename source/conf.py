@@ -75,7 +75,7 @@ extensions.append("sphinx_material")
 html_theme_path = sphinx_material.html_theme_path()
 html_context = sphinx_material.get_html_context()
 html_theme = "sphinx_material"
-html_logo = "./logos/AF_CatecheSis_Logo_Navbar.png"
+html_logo = "./img/logos/AF_CatecheSis_Logo_Navbar.png"
 
 # material theme options (see theme.conf for more information)
 html_theme_options = {
@@ -98,7 +98,7 @@ language = "pt_PT"
 html_last_updated_fmt = ""
 
 todo_include_todos = True
-html_favicon = "./logos/AF_CatecheSis_Logo_Broswer.png"
+html_favicon = "./img/logos/AF_CatecheSis_Logo_Broswer.png"
 
 html_use_index = True
 html_domain_indices = True
