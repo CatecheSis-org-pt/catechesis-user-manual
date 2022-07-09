@@ -51,7 +51,9 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 1. Carregue no seu servidor web, na diretoria pública principal (geralmente `public_html` ou `/var/www`) ou numa subdiretoria daquela,  o ficheiro `catechesis-vX.Y.Z.zip` que descarregou do site oficial e descomprima-o.
 
-2. Crie uma nova base de dados MySQL vazia, para uso do CatecheSis (por exemplo, chamada `catechesis`).
+2. Certifique-se de que o utilizador do sistema que executa o processo do Apache/PHP tem permissões de escrita na diretoria que acaba de descompactar e em todas as suas subdiretorias e ficheiros.
+
+3. Crie uma nova base de dados MySQL vazia, para uso do CatecheSis (por exemplo, chamada `catechesis`).
 
 
 
