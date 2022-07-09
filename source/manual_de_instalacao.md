@@ -121,9 +121,9 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
    Para começar o preenchimento, clique no botão *Editar* no canto superior direito do painel.
 
-   Quando terminar de preencher todos os campos, clique no botão *Guardar* no canto superior diretio do painel.
+   Quando terminar de preencher todos os campos, clique no botão *Guardar* no canto superior direito do painel.
 
-   **TODO Screenshot**
+   ![](img/setup/Assistente_de_instalacao_7.png)
 
    Quando estiver satisfeito com as alterações, clique em *Seguinte*.
 
@@ -146,9 +146,9 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
    Para começar o preenchimento, clique no botão *Editar* no canto superior direito do painel.
 
-   Quando terminar de preencher todos os campos, clique no botão *Guardar* no canto superior diretio do painel.
+   Quando terminar de preencher todos os campos, clique no botão *Guardar* no canto superior direito do painel.
 
-   **TODO Screenshot**
+   ![](img/setup/Assistente_de_instalacao_8.png)
 
    Quando estiver satisfeito com as alterações, clique em *Seguinte*.
 
@@ -167,7 +167,9 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 10. A última página do assistente informá-lo-á se a instalção foi concluída com sucesso.
 
-    Poderá ser necessário remover manualmente a pasta `setup`, se o assistente não encontrar as permissões necessárias para o fazer automaticamente.
+   ![](img/setup/Assistente_de_instalacao_9.png)
+   
+   Poderá ser necessário remover manualmente a pasta `setup`, se o assistente não encontrar as permissões necessárias para o fazer automaticamente.
 
    <div class="info">
       <p><b>NOTA:</b> 
@@ -177,7 +179,8 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
    </div>
 
 
-Continue para [Configurações adicionais](#configuraes-adicionais)
+
+Continue para [Configurações adicionais](#configuracoes-adicionais)
 
 
 #### Instalar manualmente [para utilizadores avançados]
