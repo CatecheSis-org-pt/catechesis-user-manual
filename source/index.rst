@@ -1,11 +1,12 @@
-Manual do Utilizador - CatecheSis
+Manuais do CatecheSis
 #################################
 
 *A presente página tem como objetivo apresentar e descrever o funcionamento do CatecheSis*
 
-.. toctree::
+.. toctree::\
    :maxdepth: 4
 
+   manual_de_instalacao
    manual_do_utilizador
 
 .. toctree::

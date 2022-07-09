@@ -17,10 +17,10 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = "Manual de Utilização - CatecheSis"
-html_title = "Manual de Utilização - CatecheSis"
+project = "Manuais do CatecheSis"
+html_title = "Manuais do CatecheSis"
 
-copyright = '2021, CatecheSis'
+copyright = '2022, CatecheSis'
 author = 'CatecheSis'
 
 # The full version, including alpha/beta/rc tags

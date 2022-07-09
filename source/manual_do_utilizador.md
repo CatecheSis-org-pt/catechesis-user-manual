@@ -1,4 +1,4 @@
-##### Conteúdo
+##### Manual do utilizador
 
 [1. Conceitos básicos](#conceitos-basicos)
   [1.1 Utilizar os menus](#utilizar-os-menus)
