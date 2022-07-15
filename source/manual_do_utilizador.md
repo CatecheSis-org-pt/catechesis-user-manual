@@ -556,7 +556,7 @@ O separador _Autenticações_ regista a data, hora e endereço de rede da máqui
 </div>
 </body>
 
-## 2.15 Catequese Virtual
+## 2.16 Criar uma Catequese Virtual
 
 Aceda ao menu _Catequese_ e selecione a opção _Criar Catequese Virtual_.
 
@@ -567,9 +567,51 @@ Através da caixa de texto e das diversas ferramentas disponiveis (formatação 
 Para além das ferramentas enumaradas anteriormente o Catechesis, outra duas ferramentas bastante uteis para o desevolvimentos de Catequeses Virtuais:
 
 -**Cloud**: Onde estão armazenados todos os materias, disponiblizados pelos catequista da sua paroquia, que permite uma maior dinâmica na sua catequese;
+
 -**Sala Virtual**: Um espaço onde se pode reunir como seus catequizandos á distancia. 
 
 Assim que a Catequese estiver concluida, selecione a opção _Guardar_, se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_ e ainda é possivel imprimir a Catequese, selecione a opção _Imprimir_.
+
+## 2.17 Definições
+
+Aceda ás definições selecionando a _roda dentada_ na barra superior do CatecheSis.
+
+Dentro das definições existem oito (8) opções, que permitem configurar o CatecheSis consuante as suas necessidades, assim resultam:
+
+**Dados da conta**
+
+- Modificar nome, e-mail, telefone e palavra-passe. 
+
+**Inscrições online**
+
+- Definir o periodo de abertura/fecho das inscrições; 
+- Apresentar um texto informativo a ser mostrado durante a inscrição/renovação; 
+- Referência multibanco para pagamento da inscrição/renovação; 
+
+**Aproveitamento dos catequizandos**
+
+- Possibilidade de alterar o aproveitamento dos catequizandos, para todos os catequistas, sendo assim possivel o Catequista definir ser o Catequizando transita ou não.
+
+**Catequese (operacionalização)**
+
+- Definir o dia em que a catequese é ministrada:
+- Definir o número de anos do percurso catequético (catecismos):
+
+**Integração com Nextcloud**
+
+- Alteração dos _URL's_ relacionados com a Catequese Cloud.
+
+**Personalizar página pública**
+
+- Se pretender uma página mais personalizada, é possivel definir uma imagem a sua escolha, como um Logo da Paroquia, uma fotografia da Igreja, entre outros. Caso não seja definida nenhuma imagem o CatecheSis apresenta um imagem padrão.
+
+**Dados da paróquia**
+
+- Definir o Logotipo da Paróquia e as respetivas informaçõe, nome, localidade, diocese.
+
+**Proteção de dados (RGPD)**
+
+- Definir todos os dados necessários para o Regulamento Geral sobre a Proteção de Dados (RGPD). Estes dados são utilizados para gerar automaticamente a declaração de consentimento de tratamento de dados pessoais, apresentada aos encarregados de educação que efetuarem uma inscrição/renovação de matrícula online.
 
 # 3. Requisitos de sistema
 
