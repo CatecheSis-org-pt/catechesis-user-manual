@@ -556,6 +556,21 @@ O separador _Autenticações_ regista a data, hora e endereço de rede da máqui
 </div>
 </body>
 
+## 2.15 Catequese Virtual
+
+Aceda ao menu _Catequese_ e selecione a opção _Criar Catequese Virtual_.
+
+Incialmente selecione o Ano/Grupo que pretende.
+
+Através da caixa de texto e das diversas ferramentas disponiveis (formatação de texto e inserir videos, imagens e links) é possivel criar uma catequese dinámica e bem extruturada. 
+
+Para além das ferramentas enumaradas anteriormente o Catechesis, outra duas ferramentas bastante uteis para o desevolvimentos de Catequeses Virtuais:
+
+-**Cloud**: Onde estão armazenados todos os materias, disponiblizados pelos catequista da sua paroquia, que permite uma maior dinâmica na sua catequese;
+-**Sala Virtual**: Um espaço onde se pode reunir como seus catequizandos á distancia. 
+
+Assim que a Catequese estiver concluida, selecione a opção _Guardar_, se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_ e ainda é possivel imprimir a Catequese, selecione a opção _Imprimir_.
+
 # 3. Requisitos de sistema
 
 _Características essenciais_
