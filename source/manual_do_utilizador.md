@@ -1,14 +1,29 @@
-##### Manual do Utilizador
+# Manual do Utilizador
 
-# 1. Conceitos básicos
+Este manual destina-se a todos os utilizadores do CatecheSis.
 
-## 1.1 Utilizar os menus
+## 1. Conceitos básicos
+### 1.1 Utilizar os menus [RESCRITO]
 
 A interface do CatecheSis apresenta permanentemente, no topo, uma barra de menus. Utilize os menus para efectuar tarefas e aceder às diversas funcionalidades do CatecheSis.
 
 A sua localização actual está assinalada com uma tonalidade diferente.
 
-No canto superior direito é apresentado o nome do utilizador autenticado (primeiro e último nome) e o botão de _Logout_. Utilize sempre o botão _Logout_ para terminar a sua sessão e sair do CatecheSis em segurança.
+No canto superior direito é apresentado o nome do utilizador autenticado (primeiro e último nome), selecionando o nome de utilizador é apresentada a opção de _Logout_. Utilize sempre o botão _Logout_ para terminar a sua sessão e sair do CatecheSis em segurança. Para além do utilizador são apresentados mais dois _icons_, as definições do CatecheSis e ajuda, onde é apresentado o Manual de Utilizador e alguma informação sobre o CatecheSis.
+
+Ao centro da página é apresentada alguma informação util ao catequista:
+
+- **Os seus grupos de catequese**: São apresentados os vários grupos de catequese assim como aniversários dentro desse mesmo grupo de Catequese. Ainda existe a possibilidade de ir para os meus catequizandos, de forma rápida.
+- **Dados dos seus catequizandos**: Selecionando a opção _Ver relatório_ é apresentado um pequeno relatorio relativamente a dados inconsistentes dos seus catequizandos, por exemplo _Número de telefone inválido_, _O catequizando nunca esteve inscrito em nenhum grupo de catequese_, _A data de baptismo é anterior à data de nascimento_, _Comprovativo do baptismo em falta_, _Sem endereço de e-mail_. A cor da _caixa_ varia consoante a gravidade inconsistência de dados.
+- **Acessos rápidos**: São apresentados os vários alguns acessos rápidos, úteis para o catequista. 
+
+![](img/user_manual/1_conceitos_basicos/1.1_utilizar_menus_1.png)
+
+<center><i> - Página Principal do CatecheSis - </i></center>
+
+![](img/user_manual/1_conceitos_basicos/1.1_utilizar_menus.png)
+
+<center><i> - Opções relativamente a inconsistência de dados dos catequizandos- </i></center>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -22,6 +37,7 @@ div {
 }
 </style>
 </head>
+
 <body>
 <div class="info">
   <p><b>NOTA:</b> 
@@ -36,20 +52,20 @@ Existem vários tipos de contas de utilizador no CatecheSis.
 
 Relativamente ao sistema, o seu tipo de conta pode ser:
 
-- _**Utilizador (simples)**_ – É o tipo de conta mais comum. Tem permissões para modificar os seus dados pessoais e aceder somente às fichas dos seus catequizandos (se for catequista), mas apenas para leitura. Permite ainda fazer pesquisas sobre a base de dados de catequizandos, imprimir a folha de presenças e as fichas do grupo em que dá catequese, e consultar as estatísticas da catequese paroquial.
-- _**Administrador**_ – Além de tudo o que um utilizador simples pode fazer, um Administrador pode ainda inscrever catequizandos, aceder à ficha de qualquer catequizando e modificar fichas, gerar e imprimir listagens de catequizandos (ex: baptismos, escuteiros, etc.), criar e gerir turmas de catequese, criar e modificar contas de outros utilizadores.
+- **Utilizador (simples)** – É o tipo de conta mais comum. Tem permissões para modificar os seus dados pessoais e aceder somente às fichas dos seus catequizandos (se for catequista), mas apenas para leitura. Permite ainda fazer pesquisas sobre a base de dados de catequizandos, imprimir a folha de presenças e as fichas do grupo em que dá catequese, e consultar as estatísticas da catequese paroquial.
+- **Administrador** – Além de tudo o que um utilizador simples pode fazer, um Administrador pode ainda inscrever catequizandos, aceder à ficha de qualquer catequizando e modificar fichas, gerar e imprimir listagens de catequizandos (ex: baptismos, escuteiros, etc.), criar e gerir turmas de catequese, criar e modificar contas de outros utilizadores.
 
 Relativamente à catequese, o seu tipo de conta pode ser:
 
-- _**Catequista activo**_ – Pode ser inserido numa turma de catequese no ano catequético actual.
-- _**Catequista inactivo**_ – Não pode ser inserido numa turma de catequese no ano catequético actual, mas já deu catequese no passado e/ou poderá vir a tornar-se um catequista activo no futuro.
-- _**Não catequista**_ – Nunca pode ser inserido numa turma de catequese. Este tipo de conta pode ser utilizada por um utilizador que apenas efectue tarefas administrativas, por exemplo.
+- **Catequista activo** – Pode ser inserido numa turma de catequese no ano catequético actual.
+- **Catequista inactivo** – Não pode ser inserido numa turma de catequese no ano catequético actual, mas já deu catequese no passado e/ou poderá vir a tornar-se um catequista activo no futuro.
+- **Não catequista** – Nunca pode ser inserido numa turma de catequese. Este tipo de conta pode ser utilizada por um utilizador que apenas efectue tarefas administrativas, por exemplo.
 
 Apenas um Administrador pode modificar o tipo de conta dos utilizadores.
 
-Algumas funcionalidades do CatecheSis só dizem respeito a utilizadores do tipo _Catequista activo_. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone.
+    Algumas funcionalidades do CatecheSis só dizem respeito a utilizadores do tipo _Catequista activo_. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone.
 
-Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone.
+Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o texto: 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡.
 
 ### 1.2.1 Qual é o meu tipo de conta?
 
