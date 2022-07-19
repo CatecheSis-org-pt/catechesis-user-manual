@@ -63,9 +63,9 @@ Relativamente à catequese, o seu tipo de conta pode ser:
 
 Apenas um Administrador pode modificar o tipo de conta dos utilizadores.
 
-    Algumas funcionalidades do CatecheSis só dizem respeito a utilizadores do tipo _Catequista activo_. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone.
+Algumas funcionalidades do CatecheSis só dizem respeito a utilizadores do tipo _Catequista activo_. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone ![🅒🅐🅣🅔🅠🅤🅘🅢🅣🅐](img/user_manual/badges/catequista_ativo.svg).
 
-Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o texto: 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡.
+Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg) .
 
 #### 1.2.1 Qual é o meu tipo de conta?
 
@@ -171,7 +171,7 @@ Seleccione o separador _Fichas dos catequizandos_ e clique em _Imprimir_. Obtém
 
 Seleccione o separador _Pré-Inscrições_ e clique em _Transferir_. Obtém um ficheiro do Microsoft Word com as fichas de pré-inscrição para o grupo de catequizandos que selecionou. As fichas saem pré-preenchidas com os dados de cada catequizando, um por página.
 
-#### 2.3.2 Para outro grupo de catequese 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+#### 2.3.2 Para outro grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e selecione _Reprografia_.
 
@@ -187,7 +187,7 @@ Clique no botão _Gerar_. Siga as instruções já apresentadas no tópico anter
 </div>
 </body>
 
-### 2.4 Inscrever um catequizando 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.4 Inscrever um catequizando ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 <body>
 <div class="info">
@@ -341,7 +341,7 @@ Para terminar, clique em Guardar, no topo da janela.
 
 <center><i> - Registo do aproveitamento dos meus catequizandos - </i></center><p></p>
 
-#### 2.7.2 Abrir/fechar o período de avaliação 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+#### 2.7.2 Abrir/fechar o período de avaliação ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
 
@@ -353,7 +353,7 @@ Se a sua conta for de _Administrador_, surgirá no topo da janela um painel seme
 
 Clique ou deslize o botão azul. Quando o botão está definido para _ON_, o período de avaliação está aberto, e todos os catequistas podem avaliar os seus catequizandos. Quando o botão está definido para _OFF_, os catequistas não poderão alterar a avaliação dos catequizandos.
 
-### 2.8 Atribuir um catequizando a um grupo de catequese 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.8 Atribuir um catequizando a um grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao arquivo do catequizando, conforme descrito no tópico [2.6 Consultar o arquivo acerca de um catequizando](#consultar-o-arquivo-acerca-de-um-catequizando).
 
@@ -378,7 +378,7 @@ pagamento - </i></center><p></p>
 </div>
 </body>
 
-### 2.9 Renovar matrículas 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.9 Renovar matrículas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Inscrições_ e seleccione _Renovar matrículas_.
 
@@ -407,7 +407,7 @@ Para cada catequizando, indique se renova a matrícula clicando ou deslizando o 
 
 Para terminar, clique em Guardar, no topo da janela.
 
-### 2.10 Criar e gerir grupos de catequese 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.10 Criar e gerir grupos de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e selecione a opção _Gerir grupos de catequese_.
 
@@ -470,7 +470,7 @@ Para retirar um catequista do grupo de catequese, posicione o rato sobre a linha
 </div>
 </body>
 
-### 2.11 Criar e gerir utilizadores e catequistas 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.11 Criar e gerir utilizadores e catequistas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Administração_ e selecione a opção _Gerir utilizadores e catequistas_.
 
@@ -523,7 +523,7 @@ As opções disponíveis relativamente ao atributo catequista são descritas de 
 </div>
 </body>
 
-### 2.12 Gerar listagens de catequizandos 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.12 Gerar listagens de catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequizandos_ e selecione uma das opções disponíveis abaixo da linha _Listar catequizandos_. As várias opções são descritas em seguida.
 
@@ -647,7 +647,7 @@ O gráfico mostra a percentagem de catequizandos residentes e não residentes na
 
 Considera-se um catequizando residente na paróquia se o código postal constante na sua ficha de inscrição pertencer a um conjunto de códigos postais considerados inclusos no território da paróquia da Cova da Piedade.
 
-### 2.15 Monitorizar os acessos ao CatecheSis 🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡
+### 2.15 Monitorizar os acessos ao CatecheSis ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Administração_ e selecione a opção _Registos de actividade do sistema_.
 
