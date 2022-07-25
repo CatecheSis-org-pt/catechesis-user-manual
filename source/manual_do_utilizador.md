@@ -129,7 +129,7 @@ Quando estiver satisfeito(a) com as alterações, clique em _Guardar_.
 
 ### 2.2 Consultar as fichas dos meus catequizandos
 
-##### Opção 1
+#### 2.2.1 Opção 1
 
 Aceda a _Minha Conta_ e observe o painel _Os seus grupos de catequese_. É apresentado o(s) seu(s) grupo(s) de catequese neste ano catequético.
 
@@ -147,7 +147,7 @@ Aceda a _Minha Conta_ e observe o painel _Os seus grupos de catequese_. É apres
 
 Clique em _Ir para os meus catequizandos_.
 
-##### Opção 2
+#### 2.2.2 Opção 2
 
 Aceda ao menu _Catequizandos_ e clique em _Os meus catequizandos._
 

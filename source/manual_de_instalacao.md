@@ -15,7 +15,7 @@ Este manual destina-se aos administradores / técnicos de informática responsá
 
 
 
-## Requisitos
+## 1. Requisitos
 
 Antes de iniciar a instalação, certifque-se de que o seu servidor cumpre os seguintes requisitos:
 
@@ -35,9 +35,9 @@ Antes de iniciar a instalação, certifque-se de que o seu servidor cumpre os se
 
 
 
-## Instalar o CatecheSis num servidor web
+## 2. Instalar o CatecheSis num servidor web
 
-### Decarregar o CatecheSis
+### 2.1 Decarregar o CatecheSis
 
 Visite a página [https://catechesis.org.pt](https://catechesis.org.pt) e navegue até à secção *Transferir* para descarregar um ficheiro compactado contendo o CatecheSis.
 
@@ -45,9 +45,9 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 
 
-### Instalar o CatecheSis
+### 2.2 Instalar o CatecheSis
 
-#### Preparativos
+#### 2.2.1 Preparativos
 
 1. Carregue no seu servidor web, na diretoria pública principal (geralmente `public_html` ou `/var/www`) ou numa subdiretoria daquela,  o ficheiro `catechesis-vX.Y.Z.zip` que descarregou do site oficial e descomprima-o.
 
@@ -57,7 +57,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 
 
-#### Instalar utilizando o assistente de instalação
+#### 2.2.2 Instalar utilizando o assistente de instalação
 
 1. Inicie um navegador *web* e aceda ao endereço `https://<URL_do_CatecheSis>/setup`, onde `<URL_do_CatecheSis>` designa o endereço onde ficará disponível o CatecheSis (por exemplo: *aminhaparoquia.pt/catechesis*).
 
@@ -185,7 +185,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 Continue para [Configurações adicionais](#configuracoes-adicionais)
 
 
-#### Instalar manualmente [para utilizadores avançados]
+#### 2.2.3 Instalar manualmente [para utilizadores avançados]
 
 É possível instalar e configurar o CatecheSis sem utilizar o assistente de instalação.
 Para tal, os passos genéricos são estes:
@@ -238,7 +238,7 @@ Para tal, os passos genéricos são estes:
 
 
 
-### Configurações adicionais
+### 2.3 Configurações adicionais
 
 Existem alguns passos adicionais que têm de ser executados manualmente, para concluir a instalação do CatecheSis.
 
@@ -253,7 +253,7 @@ Existem alguns passos adicionais que têm de ser executados manualmente, para co
 
 
 
-## Manter o CatecheSis atualizado
+## 3. Manter o CatecheSis atualizado
 
 A funcionalidade de atualizações automáticas encontra-se ainda em desenvolvimento.
 
