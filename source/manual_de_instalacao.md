@@ -249,7 +249,7 @@ Existem alguns passos adicionais que têm de ser executados manualmente, para co
    Esta verificação destina-se a testar se o seu servidor está corretamente configurado para interpretar as diretrizes dos ficheiros `.htaccess` que bloqueiam o acesso dos visitantes a determinadas áreas internas do CatecheSis.
    Se necessário, corrija a configuração do servidor web.
 
-3. Para que a funcionalidade de estatísticas de catquizandos residentes na paróquia funcione, é necessário preencher tabela `cod_postais_paroquia` da base de dados com os códigos postais abrangidos pela sua paróquia.
+3. Para que a funcionalidade de estatísticas de catequizandos residentes na paróquia funcione, é necessário preencher tabela `cod_postais_paroquia` da base de dados com os códigos postais abrangidos pela sua paróquia.
 
 
 
