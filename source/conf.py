@@ -16,10 +16,10 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = "Manual de Utilização - CatecheSis"
-html_title = "Manual de Utilização - CatecheSis"
+project = "Manuais do CatecheSis"
+html_title = "Manuais do CatecheSis"
 
-copyright = '2021, CatecheSis'
+copyright = '2022, CatecheSis'
 author = 'CatecheSis'
 
 
@@ -67,13 +67,13 @@ html_static_path = ["_static"]
 
 html_show_sourcelink = True
 html_theme = "sphinx_rtd_theme"
-html_logo = "./logos/AF_CatecheSis_Logo_Navbar.png"
+html_logo = "./img/logos/AF_CatecheSis_Logo_Navbar.png"
 
 language = "pt_PT"
 html_last_updated_fmt = ""
 
 todo_include_todos = True
-html_favicon = "./logos/AF_CatecheSis_Logo_Broswer.png"
+html_favicon = "./img/logos/AF_CatecheSis_Logo_Broswer.png"
 
 html_use_index = True
 html_domain_indices = True
