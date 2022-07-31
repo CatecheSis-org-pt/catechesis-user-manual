@@ -252,9 +252,18 @@ Existem alguns passos adicionais que têm de ser executados manualmente, para co
 3. Para que a funcionalidade de estatísticas de catequizandos residentes na paróquia funcione, é necessário preencher tabela `cod_postais_paroquia` da base de dados com os códigos postais abrangidos pela sua paróquia.
 
 
+## 3. Instalar a Catequese Cloud [OPCIONAL]
 
-## 3. Manter o CatecheSis atualizado
+A Catequese Cloud é um componente opcional. Trata-se de uma plataforma de partilha de ficheiros (vulgarmente chamada de "cloud"), baseada no software open-source [NextCloud](https://nextcloud.com/).
+O CatecheSis possui integrações específicas com a Nextcloud, de forma a que possa utilizar as mesmas contas de utilizador para aceder a ambos os sistemas, e para que possa facilmente utilizar recursos da nuvem nas sessões de catequese virtual.
+
+Atualmente, a documentação de configuração da Catequese Cloud e respetiva integração com o CatecheSis encontra-se apenas disponível em língua inglesa, no [repositório de código do CatecheSis](https://github.com).
+
+
+## 4. Manter o CatecheSis atualizado
 
 A funcionalidade de atualizações automáticas encontra-se ainda em desenvolvimento.
 
 Entretanto, para garantir que executa a versão mais recente do CatecheSis e estar assim a par das últimas funcionalidades e correções de segurança, visite regularmente a página [https://catechesis.org.pt](https://catechesis.org.pt). Ali serão disponibilizadas as atualizações para *download*, assim como as instruções necessárias para aplicar as atualizações. 
+
+
