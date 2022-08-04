@@ -3,7 +3,7 @@
 Este manual destina-se a todos os utilizadores do CatecheSis.
 
 ## 1. Conceitos básicos
-### 1.1 Utilizar os menus [RESCRITO]
+### 1.1 Utilizar os menus
 
 A interface do CatecheSis apresenta permanentemente, no topo, uma barra de menus. Utilize os menus para efectuar tarefas e aceder às diversas funcionalidades do CatecheSis.
 
@@ -70,9 +70,7 @@ Relativamente à catequese, o seu tipo de conta pode ser:
 
 Apenas um Administrador pode modificar o tipo de conta dos utilizadores.
 
-Algumas funcionalidades do CatecheSis só dizem respeito a utilizadores do tipo _Catequista ativo_. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone ![🅒🅐🅣🅔🅠🅤🅘🅢🅣🅐](img/user_manual/badges/catequista_ativo.svg).
-
-Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg) .
+Algumas funcionalidades do CatecheSis só estão disponíveis para Administradores. De ora em diante neste manual, essas funcionalidades serão assinaladas com o ícone ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg).
 
 #### 1.2.1 Qual é o meu tipo de conta?
 
@@ -217,10 +215,6 @@ No painel inferior é possível ainda atribuir o catequizando a um grupo de cate
 
 Clique no botão _Inscrever_.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.4.1_inscrever_um_novo_catequizando.png)
-
-<center><i> - Inscrição um novo catequizando - </i></center><p></p>
-
 Depois de concluída a inscrição, pode consultar imediatamente a ficha do catequizando, o arquivo (onde poderá [2.9 Atribuir um catequizando a um grupo de catequese](#atribuir-um-catequizando-a-um-grupo-de-catequese), ou inscrever um irmão deste catequizando.
 
 #### 2.4.2 Inscrever um irmão
@@ -237,13 +231,11 @@ Surgirá um formulário de inscrição pré-preenchido com os dados dos pais, mo
 
 Siga as mesmas instruções do tópico anterior, [2.4 Inscrever um novo catequizando](#inscrever-um-catequizando)
 
-
 <div class="info">
   <p><b>NOTA:</b> 
   Se durante a inscrição deste catequizando alterar algum dos dados comuns às fichas dos irmãos (ex: morada, telefones, <i>e-mail</i> ou profissão dos pais) esses dados serão automaticamente atualizados nas fichas de todos os irmãos.
   </p>
 </div>
-
 
 ### 2.5 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
@@ -284,10 +276,6 @@ Para **aprovar uma renovação**, aceda ao menu _Inscrições > Renovar matrícu
 
 Depois de criar os novos grupos para o novo ano catequético, selecione nesta página o ano catequético anterior e um catecismo.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_aprovar_renovacoes_1.png)
-
-<center><i> - Aprovar renovações - </i></center><p></p>
-
 Surgirá a listagem dos catequizandos inscritos no grupo no ano anterior.
 
 No final da listagem, um painel azul que mostra os pedidos de renovação para esse catecismo que foram feitos online.
@@ -298,7 +286,7 @@ Sugerimos que também verifique, sobre a linha do pedido, o telefone e o e-mail,
 
 Por fim clique no botão _Guardar_.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_aprovar_renovacoes_2.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_aprovar_renovacoes.png)
 
 <center><i> - Aprovar renovações - </i></center><p></p>
 
@@ -786,7 +774,7 @@ Quando o conteúdo da catequese estiver concluido, ou regularmente durante a sua
 
 Se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_.
 
-### 2.18 Alterar configurações do Catechesis [ADD]
+### 2.18 Alterar configurações do Catechesis
 
 Aceda à página de Configurações selecionando a _roda dentada_ na barra superior do CatecheSis.
 
