@@ -1,11 +1,9 @@
 # Manual de Instalação
 
 <style>
-div {
+.info {
   margin-bottom: 15px;
   padding: 4px 12px;
-}
-.info {
   background-color: #e7f3fe;
   border-left: 6px solid #2196F3;
 }

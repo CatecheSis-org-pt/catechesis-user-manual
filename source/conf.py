@@ -79,14 +79,14 @@ html_logo = "./img/logos/AF_CatecheSis_Logo_Navbar.png"
 
 # material theme options (see theme.conf for more information)
 html_theme_options = {
-    "base_url": "https://catechesis.org.pt/catechesis-test/",
+    "base_url": "https://catechesis.org.pt/",
     #"repo_url": "https://github.com/.../...",
     #"repo_name": "Manual de Utilização - CatecheSis",
-    "google_analytics_account": "UA-XXXXX",
+    #"repo_type": "github",
+    #"google_analytics_account": "UA-XXXXX",
     "html_minify": False,
     "html_prettify": True,
     "css_minify": True,
-    "repo_type": "github",
     "globaltoc_depth": 2,
     "color_primary": "blue", #'#008fcf' - Cor do Azul do Cate,
     "color_accent": "black",

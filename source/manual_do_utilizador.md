@@ -1,5 +1,14 @@
 # Manual do Utilizador
 
+<style>
+.info {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+</style>
+
 Este manual destina-se a todos os utilizadores do CatecheSis.
 
 ## 1. Conceitos básicos
@@ -33,19 +42,6 @@ Ao centro da página é apresentada alguma informação util ao catequista:
 ![](img/user_manual/1_conceitos_basicos/1.1_utilizar_menus.png)
 
 <center><i> - Opções relativamente a inconsistência de dados dos catequizandos - </i></center><p></p>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-div {
-  margin-bottom: 15px;
-  padding: 4px 12px;
-}
-.info {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
-}
-</style>
-
 
 <div class="info">
   <p><b>NOTA:</b> 
