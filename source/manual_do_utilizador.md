@@ -35,7 +35,7 @@ Ainda no canto superior direito, estão localizados mais dois _icons_: o botão 
 Ao centro da página é apresentada alguma informação util ao catequista:
 
 - **Os seus grupos de catequese**: São apresentados os vários grupos de catequese assim como aniversários dentro desse mesmo grupo de Catequese. Existe ainda a possibilidade de ir para _os meus catequizandos_, de forma rápida.
-- **Dados dos seus catequizandos**: Indica de forma visual se as fichas dos seus catequizandos contêm alguma informação incompleta ou incorreta. A cor da _caixa_ varia consoante a gravidade inconsistência de dados. Selecionando a opção _Ver relatório_ é apresentado o relatório completo dos dados inconsistentes dos seus catequizandos (por exemplo, números de telefone inválidos, datas de baptismo inválidas, ou comprovativos de baptismo em falta).
+- **Dados dos seus catequizandos**: Indica de forma visual se as fichas dos seus catequizandos contêm alguma informação incompleta ou incorreta. A cor da _caixa_ varia consoante a gravidade inconsistência de dados. Selecionando a opção _Ver relatório_ é apresentado o relatório completo dos dados inconsistentes dos seus catequizandos (por exemplo, números de telefone inválidos, datas de baptismo inválidas, ou comprovativos de baptismo em falta). _Veja também [2.x.4 Listar catequizandos com dados inconsistentes](#listar-catequizandos-com-dados-inconsistentes)_.
 - **Acessos rápidos**: São apresentados os vários alguns acessos rápidos, úteis para o catequista. 
 
 
@@ -287,6 +287,7 @@ Esta página mostra o total de pedidos de renovação de todos os catecismos, no
 
 <center><i> - Renovações de matrícula - </i></center><p></p>
 
+
 #### 2.5.4 Aprovar renovações
 
 Para **aprovar uma renovação**, aceda ao menu _Inscrições > Renovar matrículas._
@@ -498,6 +499,14 @@ Para cada catequizando, indique se renova a matrícula clicando ou deslizando o 
 
 Para terminar, clique em Guardar, no topo da janela.
 
+
+<div class="info">
+  <p><b>NOTA:</b>
+  A página de renovações de matrícula também apresenta um painel com os pedidos de renovação feitos online, caso esteja a utilizar essa funcionalidade na sua paróquia.<br>
+  Leia também a secção <b>2.5.3 Aprovar renovações</b> para saber mais sobre como utilizar esta funcionalidade.
+  </p>
+</div>
+
 ### 2.11 Criar e gerir grupos de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e selecione a opção _Gerir grupos de catequese_.
@@ -687,9 +696,65 @@ Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
 
 <div class="info">
   <p><b>NOTA:</b>
-  Para imprimir a listagem com os sacramentos a cores (verde/cinzento), certifique-se de que o <i>navegador</i> está configurado para imprimir <i>cores de fundo e imagens<i>. Ver o <b>item IV</b> em <b>Problemas Conhecidos</b>
+  Para imprimir a listagem com os sacramentos a cores (verde/cinzento), certifique-se de que o <i>navegador</i> está configurado para imprimir <i>cores de fundo e imagens</i>. Ver o <b>item IV</b> em <b>Problemas Conhecidos</b>
   </p>
 </div>
+
+
+### 2.x Utilizar as ferramentas de apoio à decisão
+
+O CatecheSis dispõe de uma ferramenta de apoio à decisão que o ajuda a decidir quais os catequizandos que estão aptos para receber um determinado sacramento neste ano catequético, tendo em consideração o seu percurso catequético e algumas regras pré-definidas, bem como a detectar eventuais incorreções nas fichas dos catequizandos.
+
+<div class="info">
+  <p><b>NOTA:</b>
+   Se for um administrador, esta ferramenta irá mostrar-lhe um relatório completo com todos os catequizandos inscritos neste ano catequético.
+   Caso contrário, apenas serão mostrados catequizandos dos seus grupos de catequese.
+  </p>
+</div>
+
+
+#### 2.x.1 Listar catequizandos elegíveis para Baptismo
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Baptismos_.
+
+O relatório apresenta-lhe todos os catequizandos inscritos neste ano catequético, divididos em três listas:
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.x.1_Apoio_decisao_baptismo.png)
+
+- **Elegíveis para receber o sacramento** - aqueles que, em princípio, poderão receber o sacramento neste ano catequético. Confirme na coluna _Relatório_ se existem algumas ações necessárias a realizar antes da data do sacramento.
+- **Não cumprem os requisitos** - aqueles que, por não cumprirem todos os requisitos necessários, estão à partida impedidos de receber o sacramento neste ano catequético. Os requisitos podem corresponder à frequência de um determinado ano de catequese, ou a frequência da catequese há pelo menos dois anos, por exemplo.
+- **Já receberam o sacramento** - catequizandos que, por já terem recebido o sacramento, são excluídos das duas listas anteriores.
+
+Clique no título de cada uma destas listas para a expandir / colapsar.
+
+A coluna _Relatório_ alerta para eventuais problemas a resolver, tais como comprovativos de baptismo em falta, datas de sacramentos incorretas ou incompletas nas fichas dos catequizandos.
+
+Os catequizandos em cada uma das três listas são ordenados por ordem de gravidade dos problemas reportados na coluna _Relatório_.
+
+
+#### 2.x.2 Listar catequizandos elegíveis para Primeira Comunhão
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Primeiras Comunhões_.
+
+O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+
+#### 2.x.3 Listar catequizandos elegíveis para Crisma
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Crismas_.
+
+O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+
+
+#### 2.x.4 Listar catequizandos com dados inconsistentes
+
+Aceda ao menu _Análise_ e, na secção _Dados_, clique em _Dados insconsistentes_.
+
+Neste relatório, são reportados outros tipos de problemas relacionados com as fichas dos catequizandos, tais como dados incompletos ou incorretos.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.x.4_Relatorio_dados_inconsistentes.png)
+
+
+Apesar do conteúdo e da finalidade serem diferentes, o aspeto do relatório e o seu funcionamento é muito semelhante ao dos relatórios de apoio à decisão para sacramentos, descritos nas secções anteriores.
 
 
 ### 2.15 Consultar estatísticas acerca da catequese paroquial
@@ -759,7 +824,7 @@ O separador _Autenticações_ regista a data, hora e endereço de rede da máqui
 </div>
 
 
-### 2.17 Criar uma sessão de Catequese Virtual [ADD]
+### 2.17 Criar uma sessão de Catequese Virtual
 
 Aceda ao menu _Catequese_ e selecione a opção _Criar Catequese Virtual_.
 
@@ -800,6 +865,8 @@ Os vários painéis nesta página permitem configurar diversos aspetos do Catech
 #### 2.18.1 Dados da conta
 
 - Modificar o nome, e-mail, telefone e palavra-passe da sua conta. 
+
+_Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-minha-conta)_.
 
 #### 2.18.2 Inscrições online
 
