@@ -235,6 +235,26 @@ Siga as mesmas instruções do tópico anterior, [2.4 Inscrever um novo catequiz
 
 ### 2.5 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
+#### 2.5.1 Abrir/fechar as inscrições online
+
+Para abrir ou fechar o portal de inscrições e renovações de matrículas online, para encarregados de educação, comece por aceder à página de _Configurações_ (ícone da roda dentada no canto superior direito do ecrã).
+
+Na secção _Inscrições online_ deslize o interruptor de modo a que _ON_ fique visível.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.1_Abrir_fechar_inscricoes_online.png)
+<center><i> - Abrir/fechar inscrições online - </i></center><p></p>
+
+
+<div class="info">
+  <p><b>NOTA:</b> 
+  Para ligar/desligar interruptores como este, não é necessário clicar no botão <i>Editar</i> no canto superior direito do painel. A alteração é imediata.
+  </p>
+</div>
+
+A caixa imediatamente abaixo do interruptor indica-lhe o endereço do portal de inscrições online, que poderá divulgar junto dos encarregados de educação e interessados.
+
+Os restantes campos do painel permitem-lhe configurar um texto informativo a ser mostrado na página de inscrições, bem como a referência multibanco para receber donativos.
+
 À medida que forem chegando pedidos de inscrição/renovação, será mostrado o número de pedidos pendentes no menu _Inscrições_.
 
 ![](img/user_manual/2_efectuar_uma_tarefa/2.5_inscricoes_online.png)
@@ -243,18 +263,19 @@ Siga as mesmas instruções do tópico anterior, [2.4 Inscrever um novo catequiz
 
 Para visualizar um resumo de todos os pedidos, aceda ao menu _Inscrições > Processar pedidos de inscrição online._
 
-#### 2.5.1 Visualizar pedidos de novas inscrições
+
+#### 2.5.2 Visualizar pedidos de novas inscrições
 
 O primeiro separador apresenta os **pedidos de inscrição**, para quem se inscreve pela primeira vez.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.1_novas_inscricoes.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.2_novas_inscricoes.png)
 
 <center><i> -Novas inscrições - </i></center><p></p>
 
 O programa sugere um catecismo para cada candidato, com base na sua idade e também no último catecismo que ele frequentou (caso tenha vindo de outra paróquia). Deste modo, já consegue prever quantos catequizandos novos entrarão em cada catecismo.
 
 
-#### 2.5.2 Visualizar pedidos de renovação de matrícula
+#### 2.5.3 Visualizar pedidos de renovação de matrícula
 
 O separador **Renovações de matrícula** mostra de forma semelhante os pedidos de renovação que forem recebidos.
 
@@ -262,11 +283,11 @@ Aqui pode ser visualizada a informação completa de um pedido clicando sobre es
 
 Esta página mostra o total de pedidos de renovação de todos os catecismos, no entanto, não é aqui que se processa a renovação.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.2_renovacoes_de_matricula.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_renovacoes_de_matricula.png)
 
 <center><i> - Renovações de matrícula - </i></center><p></p>
 
-#### 2.5.3 Aprovar renovações
+#### 2.5.4 Aprovar renovações
 
 Para **aprovar uma renovação**, aceda ao menu _Inscrições > Renovar matrículas._
 
@@ -282,7 +303,7 @@ Sugerimos que também verifique, sobre a linha do pedido, o telefone e o e-mail,
 
 Por fim clique no botão _Guardar_.
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_aprovar_renovacoes.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.4_aprovar_renovacoes.png)
 
 <center><i> - Aprovar renovações - </i></center><p></p>
 
