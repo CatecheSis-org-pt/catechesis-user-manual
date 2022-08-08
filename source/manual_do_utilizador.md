@@ -227,7 +227,7 @@ Pode atribuir valores aos campos _Ano catequético_ e _Catequista_. Ambos são o
 
 ### 2.4 Consultar o arquivo acerca de um catequizando
 
-Proceda do mesmo modo que para [2.6 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando).
+Proceda do mesmo modo que para [2.3 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando).
 
 Estando a ficha do catequizando aberta, clique sobre o separador _Arquivo_, no topo do ecrã.
 
@@ -399,13 +399,13 @@ Os catequizandos em cada uma das três listas são ordenados por ordem de gravid
 
 Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Primeiras Comunhões_.
 
-O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+O relatório funciona conforme descrito na secção [2.9.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
 
 #### 2.9.3 Listar catequizandos elegíveis para Crisma
 
 Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Crismas_.
 
-O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+O relatório funciona conforme descrito na secção [2.9.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
 
 #### 2.9.4 Listar catequizandos com dados inconsistentes
 
@@ -497,11 +497,11 @@ Se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_
 <div class="info">
   <p><b>NOTA:</b> 
   Antes de inscrever um novo catequizando, poderá ser-lhe muito útil saber se este tem algum irmão já inscrito na catequese.
-  Se tem conhecimento de que o catequizando a inscrever já tem um irmão na catequese, salte directamente para o tópico <b>Inscrever um irmão</b> 
+  Se tem conhecimento de que o catequizando a inscrever já tem um irmão na catequese, salte directamente para o tópico <b>2.12.2 Inscrever um irmão</b> 
   </p>
 </div>
 
-#### 2.12.1 Inscrever um novo catequizando
+#### 2.12.1 Inscrever um novo catequizando (offline)
 
 Aceda ao menu _Inscrições_ e selecione a opção _Inscrever novo catequizando_.
 
@@ -513,11 +513,11 @@ No painel inferior é possível ainda atribuir o catequizando a um grupo de cate
 
 Clique no botão _Inscrever_.
 
-Depois de concluída a inscrição, pode consultar imediatamente a ficha do catequizando, o arquivo (onde poderá [2.9 Atribuir um catequizando a um grupo de catequese](#atribuir-um-catequizando-a-um-grupo-de-catequese), ou inscrever um irmão deste catequizando.
+Depois de concluída a inscrição, pode consultar imediatamente a ficha do catequizando, o arquivo (onde poderá [2.14 Atribuir um catequizando a um grupo de catequese](#atribuir-um-catequizando-a-um-grupo-de-catequese), ou inscrever um irmão deste catequizando.
 
 #### 2.12.2 Inscrever um irmão
 
-Aceda primeiro à ficha do irmão do catequizando que pretende inscrever. Pode utilizar qualquer um dos métodos descritos neste manual para aceder à ficha. Consulte [2.6 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando)
+Aceda primeiro à ficha do irmão do catequizando que pretende inscrever. Pode utilizar qualquer um dos métodos descritos neste manual para aceder à ficha. Consulte [2.3 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando)
 
 Aceda agora ao menu _Inscrições_ e selecione a opção _Inscrever um irmão deste catequizando_.
 
@@ -527,7 +527,7 @@ Aceda agora ao menu _Inscrições_ e selecione a opção _Inscrever um irmão de
 
 Surgirá um formulário de inscrição pré-preenchido com os dados dos pais, morada, telefones e _e-mail_, assumindo que se tratam dos mesmos dados do irmão. Complete a informação em falta e altere o que for necessário.
 
-Siga as mesmas instruções do tópico anterior, [2.4 Inscrever um novo catequizando](#inscrever-um-catequizando)
+Siga as mesmas instruções do tópico anterior, [2.12.1 Inscrever um novo catequizando (offline)](#inscrever-um-catequizando)
 
 <div class="info">
   <p><b>NOTA:</b> 
@@ -566,13 +566,13 @@ Para terminar, clique em Guardar, no topo da janela.
 <div class="info">
   <p><b>NOTA:</b>
   A página de renovações de matrícula também apresenta um painel com os pedidos de renovação feitos online, caso esteja a utilizar essa funcionalidade na sua paróquia.<br>
-  Leia também a secção <b>2.5.3 Aprovar renovações</b> para saber mais sobre como utilizar esta funcionalidade.
+  Leia também a secção <b>2.15.4 Aprovar renovações</b> para saber mais sobre como utilizar esta funcionalidade.
   </p>
 </div>
 
 ### 2.14 Atribuir um catequizando a um grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-Aceda ao arquivo do catequizando, conforme descrito no tópico [2.7 Consultar o arquivo acerca de um catequizando](#consultar-o-arquivo-acerca-de-um-catequizando).
+Aceda ao arquivo do catequizando, conforme descrito no tópico [2.4 Consultar o arquivo acerca de um catequizando](#consultar-o-arquivo-acerca-de-um-catequizando).
 
 No painel _Percurso catequético_, concentre-se sobre a última linha da tabela. Preencha o ano catequético e o catecismo onde pretende colocar o catequizando. Seleccione a caixa _pago_ se a inscrição foi paga. Clique em _Adicionar_.
 
@@ -589,13 +589,13 @@ pagamento - </i></center><p></p>
 
 <div class="info">
   <p><b>NOTA:</b>
-  A coluna <i>Catequistas</i> é preenchida automaticamente quando forem definidos os catequistas para aquele grupo de catequese. Consulte <b>Criar e gerir grupos de catequese</b>
+  A coluna <i>Catequistas</i> é preenchida automaticamente quando forem definidos os catequistas para aquele grupo de catequese. Consulte <b>2.16 Criar e gerir grupos de catequese</b>
   </p>
 </div>
 
 Se pretender transferir o catequizando para outro grupo de catequese, remova-o primeiro do grupo atual e inscreva-o de seguida no novo grupo, seguindo as instruções acima.
 
-### 2.15 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+### 2.15 Gerir inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 #### 2.15.1 Abrir/fechar as inscrições online
 
@@ -735,13 +735,13 @@ Para retirar um catequista do grupo de catequese, posicione o rato sobre a linha
 
 <div class="info">
   <p><b>NOTA:</b>
-  Ao adicionar um catequista a um grupo de catequese, só encontrará na caixa de selecção os nomes de utilizadores com o atributo de <i>Catequista ativo</i>. Consulte <b>Criar e gerir utilizadores e catequistas</b>.
+  Ao adicionar um catequista a um grupo de catequese, só encontrará na caixa de selecção os nomes de utilizadores com o atributo de <i>Catequista ativo</i>. Consulte <b>2.17 Criar e gerir utilizadores e catequistas</b>.
   </p>
 </div>
 
 ### 2.17 Criar e gerir utilizadores e catequistas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-Aceda ao menu _Administração_ e selecione a opção _Gerir utilizadores e catequistas_.
+Aceda ao menu _Catequese_ e selecione a opção _Gerir utilizadores e catequistas_.
 
 #### 2.17.1 Criar uma nova conta de utilizador / catequista
 
@@ -804,40 +804,41 @@ Os vários painéis nesta página permitem configurar diversos aspetos do Catech
 
 _Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-minha-conta)_.
 
-#### 2.18.2 Inscrições online
+#### 2.18.2 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir o período de abertura/fecho das inscrições online; 
 - Definir um texto informativo a ser mostrado na página de inscrição/renovação de matrículas online; 
 - Definir uma referência multibanco para pagamento da inscrição/renovação; 
 
-#### 2.18.3 Aproveitamento dos catequizandos
+#### 2.18.3 Aproveitamento dos catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Ativar/desativar a possibilidade de os catequistas registarem o aproveitamento dos catequizandos.
 
-#### 2.18.4 Catequese (operacionalização)
+#### 2.18.4 Catequese (operacionalização) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir o dia em que a catequese é ministrada:
 - Definir o número de anos do percurso catequético (catecismos):
 
-#### 2.18.5 Integração com Nextcloud
+#### 2.18.5 Integração com Nextcloud ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Alteração das _URLs_ relacionadas com a Catequese Cloud.
 
-#### 2.18.6 Personalizar página pública
+#### 2.18.6 Personalizar página pública ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Se pretender uma página pública mais personalizada, é possivel definir uma imagem à sua escolha, como um logotipo da paróquia, uma fotografia da igreja, entre outros. Caso não seja definida nenhuma imagem o CatecheSis apresenta uma imagem padrão.
 
-#### 2.18.7 Dados da paróquia
+#### 2.18.7 Dados da paróquia ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir o logotipo da paróquia e as respetivas informações (nome, localidade, e diocese).
 
-#### 2.18.8 Proteção de dados (RGPD)
+#### 2.18.8 Proteção de dados (RGPD) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir os reponsáveis pelo tratamento de dados, necessários para o Regulamento Geral sobre a Proteção de Dados (RGPD). Estes dados são utilizados para gerar automaticamente a declaração de consentimento de tratamento de dados pessoais, apresentada aos encarregados de educação que efetuarem uma inscrição/renovação de matrícula online.
 
+
 ### 2.19 Monitorizar os acessos ao CatecheSis ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-Aceda ao menu _Administração_ e selecione a opção _Registos de atividade do sistema_.
+Aceda ao menu _Análise_ e selecione a opção _Registos de atividade do sistema_.
 
 O separador _Actividade no CatecheSis_ dá acesso aos registos das acções dos utilizadores, tais como inscrições de novos catequizandos, modificação e eliminação de fichas, criação e alteração da constituição de grupos de catequese, modificação de dados pessoais, criação ou modificação de contas de utilizadores.
 
