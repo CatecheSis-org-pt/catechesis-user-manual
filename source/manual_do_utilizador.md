@@ -12,6 +12,7 @@
 Este manual destina-se a todos os utilizadores do CatecheSis.
 
 ## 1. Conceitos básicos
+
 ### 1.1 Utilizar os menus
 
 A interface do CatecheSis apresenta permanentemente, no topo, uma barra de menus. Utilize os menus para efectuar tarefas e aceder às diversas funcionalidades do CatecheSis.
@@ -37,7 +38,6 @@ Ao centro da página é apresentada alguma informação util ao catequista:
 - **Os seus grupos de catequese**: São apresentados os vários grupos de catequese assim como aniversários dentro desse mesmo grupo de Catequese. Existe ainda a possibilidade de ir para _os meus catequizandos_, de forma rápida.
 - **Dados dos seus catequizandos**: Indica de forma visual se as fichas dos seus catequizandos contêm alguma informação incompleta ou incorreta. A cor da _caixa_ varia consoante a gravidade inconsistência de dados. Selecionando a opção _Ver relatório_ é apresentado o relatório completo dos dados inconsistentes dos seus catequizandos (por exemplo, números de telefone inválidos, datas de baptismo inválidas, ou comprovativos de baptismo em falta). _Veja também [2.x.4 Listar catequizandos com dados inconsistentes](#listar-catequizandos-com-dados-inconsistentes)_.
 - **Acessos rápidos**: São apresentados os vários alguns acessos rápidos, úteis para o catequista. 
-
 
 ![](img/user_manual/1_conceitos_basicos/1.1_utilizar_menus.png)
 
@@ -116,7 +116,6 @@ Não é possível modificar o seu nome de utilizador. Os atributos da sua conta 
 
 Quando estiver satisfeito(a) com as alterações, clique em _Guardar_.
 
-
 <div class="info">
   <p><b>NOTA 1:</b> 
   O seu endereço de <i>e-mail</i> e o seu número de telefone são visíveis apenas por administradores, e destinam-se a permitir que estes entrem em contacto consigo se necessário.
@@ -126,7 +125,6 @@ Quando estiver satisfeito(a) com as alterações, clique em _Guardar_.
   Em alguns ecrãs, bem como no canto superior direito do ecrã, o CatecheSis apresenta apenas o seu primeiro e último nome. O seu primeiro e último nome correspondem à primeira e última palavra escritas na caixa <i>Nome</i>, respectivamente.
   </p>
 </div>
-
 
 ### 2.2 Consultar as fichas dos meus catequizandos
 
@@ -138,13 +136,11 @@ Aceda ao ecrã de _Início_ (clicando no ícone da casa, ou no logotipo do Catec
 
 <center><i> - Painel sobre Os seus grupos de catequese - </i></center><p></p>
 
-
 <div class="info">
   <p><b>NOTA:</b> 
   Neste ecrã também pode ficar a saber se algum dos seus catequizandos faz anos hoje!
   </p>
 </div>
-
 
 Clique em _Ir para os meus catequizandos_.
 
@@ -158,9 +154,92 @@ Aceda ao menu _Catequizandos_ e clique em _Os meus catequizandos._
 
 Clique sobre o nome de um catequizando para abrir a respectiva ficha.
 
-### 2.3 Imprimir folha de presenças, fichas de catequizandos ou fichas de pré-inscrição
+### 2.3 Procurar e consultar a ficha de um catequizando
 
-#### 2.3.1 Para o meu grupo de catequese 
+#### 2.3.1 Procurar por nome / data de nascimento
+
+Aceda ao menu _Catequizandos_ e selecione a opção _Por nome / data de nascimento_.
+
+No campo _Nome_ pode escrever o nome completo ou apenas parte dele. Pode até escrever qualquer subconjunto de caracteres do nome separados por espaços, desde que estejam ordenados tal como surgem no nome do catequizando. Experimente, por exemplo, escrever apenas as iniciais do nome, separadas por espaços.
+
+A pesquisa não é sensível a maiúsculas/minúsculas, nem a acentos ou cedilhas.
+
+No campo _Nasceu a_ pode especificar a data de nascimento clicando com o rato na caixa ou utilizando teclado (no formado _dd-mm-aaaa_).
+
+Ambos os campos são opcionais.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_procurar_por_nome_data_de_nascimento.png)
+
+<center><i> - Procurar por nome / data de nascimento - </i></center><p></p>
+
+Clique sobre o nome de qualquer catequizando na lista de resultados para aceder à respectiva ficha.
+
+<div class="info">
+  <p><b>NOTA:</b> 
+  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.  
+  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
+  </p>
+</div>
+
+#### 2.3.2 Procurar por ano / catecismo
+
+Aceda ao menu _Catequizandos_ e selecione a opção _Por ano / catecismo_.
+
+Pode atribuir valores aos campos _Ano catequético_, _Catecismo_ e _grupo_. Todos eles são opcionais.
+
+É possível também filtrar os resultados obtidos segundo determinados critérios. Para tal, clique na linha _Aplicar filtros_ e surgirão mais opções.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.6.2_procurar_por_ano_catecismo.png)
+
+<center><i> - O Utilizador pediu todos os catequizandos inscritos no 1ºAno em 
+2022/2023 - </i></center><p></p>
+
+<div class="info">
+  <p><b>NOTA 1:</b>
+  Depois de clicar em <i>Pesquisar,</i> os resultados desta pesquisa (incluindo os filtros que aplicou) podem ser impressos ou exportados como um ficheiro do Microsoft Excel ou PDF. Para tal, utilize os botões <i>Imprimir</i> e <i>Exportar</i>, respectivamente, localizados imediatamente antes da lista de resultados.
+  </p>
+  <p><b>NOTA 2:</b>
+  Se especificar valores para os três campos <i>Ano catequético</i>, <i>catecismo</i> e <i>grupo</i>, surgirá juntamente com os resultados da pesquisa um botão que permite imprimir a folha de presenças para esse grupo de catequese bem como as fichas dos catequizandos.
+  </p>
+  <p><b>NOTA 3:</b>
+  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.
+  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
+  </p>
+</div>
+
+#### 2.3.3 Procurar por catequista
+
+Aceda ao menu _Catequizandos_ e selecione a opção _Por catequista_.
+
+Pode atribuir valores aos campos _Ano catequético_ e _Catequista_. Ambos são opcionais.
+
+É possível também filtrar os resultados obtidos segundo determinados critérios. Para tal, clique na linha _Aplicar filtros_ e surgirão mais opções. Consulte o exemplo no tópico anterior.
+
+<div class="info">
+  <p><b>NOTA 1:</b>
+  Depois de clicar em <i>Pesquisar,</i> os resultados desta pesquisa (incluindo os filtros que aplicou) podem ser impressos ou exportados como um ficheiro do Microsoft Excel ou PDF. Para tal, utilize os botões <i>Imprimir</i> e <i>Exportar</i>, respectivamente, localizados imediatamente antes da lista de resultados.
+  </p>
+  <p><b>NOTA 2:</b>
+  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.  
+  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
+  </p>
+</div>
+
+### 2.4 Consultar o arquivo acerca de um catequizando
+
+Proceda do mesmo modo que para [2.6 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando).
+
+Estando a ficha do catequizando aberta, clique sobre o separador _Arquivo_, no topo do ecrã.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.7_consultar_o_arquivo_acerca_de_um_catequizando.png)
+
+<center><i> - Consulta do arquivo acerca de um catequizando - </i></center><p></p>
+
+Neste ecrã poderá consultar detalhes do percurso catequético do catequizando, incluindo sacramentos, grupos de catequese e catequistas. Poderá também editar estes dados.
+
+### 2.5 Imprimir folha de presenças, fichas de catequizandos ou fichas de pré-inscrição
+
+#### 2.5.1 Para o meu grupo de catequese 
 
 Aceda ao menu _Catequizandos_ e selecione a opção _Os meus catequizandos._
 
@@ -172,7 +251,7 @@ Seleccione o separador _Fichas dos catequizandos_ e clique em _Imprimir_. Obtém
 
 Seleccione o separador _Pré-Inscrições_ e clique em _Transferir_. Obtém um ficheiro do Microsoft Word com as fichas de pré-inscrição para o grupo de catequizandos que selecionou. As fichas saem pré-preenchidas com os dados de cada catequizando, um por página.
 
-#### 2.3.2 Para outro grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.5.2 Para outro grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e selecione _Reprografia_.
 
@@ -180,16 +259,240 @@ Introduza o ano catequético, catecismo e grupo para a qual pretende gerar a fol
 
 Clique no botão _Gerar_. Siga as instruções já apresentadas no tópico anterior acerca dos separadores _Folha de presenças, Fichas dos catequizandos_ e _Pré-Inscrições_.
 
-
 <div class="info">
   <p><b>NOTA:</b> 
   Também pode gerar a folha de presenças, as fichas dos catequizandos ou as fichas de pré-inscrição a partir de uma pesquisa por ano/catecismo. Aceda ao menu <i>Catequizandos</i> e selecione a opção <i>Por ano/catecismo</i>. Especifique o ano catequético, catecismo e grupo e clique em <i>Pesquisar</i>. Surgirá então o botão <i>Imprimir folhas de presenças</i>.
   </p>
 </div>
 
+### 2.6 Registar o aproveitamento dos catequizandos
 
-### 2.4 Inscrever um catequizando ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.6.1 Registar o aproveitamento dos meus catequizandos
 
+Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
+
+Surge uma lista com todos os seus catequizandos actuais. Para cada catequizando, classifique o seu aproveitamento clicando ou deslizando o botão localizado à esquerda do seu nome.
+
+Para terminar, clique em Guardar, no topo do ecrã.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.8.1_registar_o_aproveitamento_dos_meus_catequizandos.png)
+
+<center><i> - Registo do aproveitamento dos meus catequizandos - </i></center><p></p>
+
+#### 2.6.2 Abrir/fechar o período de avaliação ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
+
+Se a sua conta for de _Administrador_, surgirá no topo da janela um painel semelhante ao da figura abaixo:
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.8.2_abrir_fechar_o_periodo_de_avaliacao.png)
+
+<center><i> - Abrir/fechar o período de avaliação - </i></center><p></p>
+
+Este painel também se contra no ecrã _Configurações_ (ícone da roda dentada no canto superior direito do ecrã). 
+
+Clique ou deslize o botão azul. Quando o botão está definido para _ON_, o período de avaliação está aberto, e todos os catequistas podem avaliar os seus catequizandos. Quando o botão está definido para _OFF_, os catequistas não poderão alterar a avaliação dos catequizandos.
+
+### 2.7 Gerar listagens de catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+Aceda ao menu _Catequizandos_ e selecione uma das opções disponíveis abaixo da linha _Listar catequizandos_. As várias opções são descritas em seguida.
+
+Todas as listagens de sacramentos incluem o nome do catequizando, data de nascimento, a data e paróquia do sacramento em causa.
+
+#### 2.7.1 Listar baptismos
+
+Gera uma listagem de todos os baptismos registados na base de dados. Pode filtrar os resultados por ano do baptismo e/ou por paróquia.
+
+#### 2.7.2 Listar primeiras comunhões
+
+Gera uma listagem de todas as primeiras comunhões registadas na base de dados. Pode filtrar os resultados por ano da primeira comunhão e/ou por paróquia.
+
+#### 2.7.3 Listar profissões de fé
+
+Gera uma listagem de todas as profissões de fé registadas na base de dados. Pode filtrar os resultados por ano da profissão de fé e/ou por paróquia.
+
+#### 2.7.4 Listar confirmações
+
+Gera uma listagem de todas as confirmações registadas na base de dados. Pode filtrar os resultados por ano da confirmação e/ou por paróquia.
+
+#### 2.7.5 Listar escuteiros
+
+Gera uma listagem de todos os catequizandos que são escuteiros e que estão inscritos nalgum grupo de catequese neste ano catequético.
+
+### 2.8 Consultar/Imprimir sacramentos de todos os catequizandos
+
+É possível listar de uma forma sucinta todos os sacramentos de um conjunto de catequizandos, sob a forma de ícones:
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_1.png)
+
+<center><i> - Sacramentos - </i></center><p></p>
+
+Um ícone verde ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_2.png) indica que o sacramento em causa foi realizado na Paróquia. Um ícone cinzento ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_3.png) indica que o sacramento foi realizado noutra paróquia.
+Um ponto verde sobre o ícone indica que o comprovativo do respetivo sacramento foi carregado no CatecheSis e está disponível no arquivo do catequizando.
+
+<div class="info">
+  <p><b>NOTA:</b>
+  Deste modo, é fácil determinar para um grupo de catequese quais são as certidões de baptismo (por exemplo) que são necessárias pedir aos encarregados de educação, e quais aquelas que podem ser obtidas nesta mesma paróquia sem necessidade de incomodar os encarregados de educação.
+  </p>
+</div>
+
+Os ícones dos sacramentos estão disponíveis nas seguintes listagens:
+
+#### 2.8.1 Os meus catequizandos
+
+Aceda ao menu _Catequizandos_ > _Os meus catequizandos_.
+
+Clique em _Mostrar sacramentos._
+
+#### 2.8.2 Pesquisa por ano/catecismo
+
+Aceda ao menu _Catequizandos_ > _Por ano / catecismo_.
+
+Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
+
+#### 2.8.3 Pesquisa por catequista
+
+Aceda ao menu _Catequizandos_ > _Por catequista_.
+
+Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_4.png)
+
+<center><i> - Apresentação dos sacramentos dos catequizandos - </i></center><p></p>
+
+<div class="info">
+  <p><b>NOTA:</b>
+  Para imprimir a listagem com os sacramentos a cores (verde/cinzento), certifique-se de que o <i>navegador</i> está configurado para imprimir <i>cores de fundo e imagens</i>. Ver o <b>item IV</b> em <b>Problemas Conhecidos</b>
+  </p>
+</div>
+
+### 2.9 Utilizar as ferramentas de apoio à decisão
+
+O CatecheSis dispõe de uma ferramenta de apoio à decisão que o ajuda a decidir quais os catequizandos que estão aptos para receber um determinado sacramento neste ano catequético, tendo em consideração o seu percurso catequético e algumas regras pré-definidas, bem como a detectar eventuais incorreções nas fichas dos catequizandos.
+
+<div class="info">
+  <p><b>NOTA:</b>
+   Se for um administrador, esta ferramenta irá mostrar-lhe um relatório completo com todos os catequizandos inscritos neste ano catequético.
+   Caso contrário, apenas serão mostrados catequizandos dos seus grupos de catequese.
+  </p>
+</div>
+
+#### 2.9.1 Listar catequizandos elegíveis para Baptismo
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Baptismos_.
+
+O relatório apresenta-lhe todos os catequizandos inscritos neste ano catequético, divididos em três listas:
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.x.1_Apoio_decisao_baptismo.png)
+
+- **Elegíveis para receber o sacramento** - aqueles que, em princípio, poderão receber o sacramento neste ano catequético. Confirme na coluna _Relatório_ se existem algumas ações necessárias a realizar antes da data do sacramento.
+- **Não cumprem os requisitos** - aqueles que, por não cumprirem todos os requisitos necessários, estão à partida impedidos de receber o sacramento neste ano catequético. Os requisitos podem corresponder à frequência de um determinado ano de catequese, ou a frequência da catequese há pelo menos dois anos, por exemplo.
+- **Já receberam o sacramento** - catequizandos que, por já terem recebido o sacramento, são excluídos das duas listas anteriores.
+
+Clique no título de cada uma destas listas para a expandir / colapsar.
+
+A coluna _Relatório_ alerta para eventuais problemas a resolver, tais como comprovativos de baptismo em falta, datas de sacramentos incorretas ou incompletas nas fichas dos catequizandos.
+
+Os catequizandos em cada uma das três listas são ordenados por ordem de gravidade dos problemas reportados na coluna _Relatório_.
+
+#### 2.9.2 Listar catequizandos elegíveis para Primeira Comunhão
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Primeiras Comunhões_.
+
+O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+
+#### 2.9.3 Listar catequizandos elegíveis para Crisma
+
+Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Crismas_.
+
+O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
+
+#### 2.9.4 Listar catequizandos com dados inconsistentes
+
+Aceda ao menu _Análise_ e, na secção _Dados_, clique em _Dados insconsistentes_.
+
+Neste relatório, são reportados outros tipos de problemas relacionados com as fichas dos catequizandos, tais como dados incompletos ou incorretos.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.x.4_Relatorio_dados_inconsistentes.png)
+
+Apesar do conteúdo e da finalidade serem diferentes, o aspeto do relatório e o seu funcionamento é muito semelhante ao dos relatórios de apoio à decisão para sacramentos, descritos nas secções anteriores.
+
+### 2.10 Consultar estatísticas acerca da catequese paroquial
+
+Aceda ao menu _Estatísticas_ e selecione uma das opções disponíveis. As várias opções são descritas em seguida.
+
+#### 2.10.1 Número de catequizandos por catequista
+
+O gráfico mostra a evolução do número de catequizandos por cada catequista, ao longo dos anos catequéticos.
+
+A tabela mostra o número total de catequizandos que já passaram por cada catequista (contabilizando apenas os dados de anos catequéticos presentes na base de dados do CatecheSis).
+
+A coluna _Total de catequizandos_ soma indiscriminadamente os valores apresentados no gráfico para um dado catequista.
+
+A coluna _Total de catequizandos distintos_ é mais significativa, pois não soma duas vezes o mesmo catequizando.
+
+#### 2.10.2 Desistências
+
+O 1º gráfico mostra o número de desistências por ano catequético.
+
+Considera-se uma desistência no ano catequético de 2014/2015, por exemplo, se um catequizando inscrito num grupo de catequese nesse ano não se inscrever em nenhum grupo de catequese no ano catequético 2015/2016, excepto no caso de o catequizando estar no 10º catecismo em 2014/2015 (nesse caso considera-se que terminou o percurso catequético).
+
+O 2º gráfico mostra a percentagem de desistências por ano catequético.
+
+A percentagem é obtida dividindo o número calculado no gráfico anterior para um determinado ano catequético pelo número total de catequizandos inscritos nalgum grupo de catequese nesse mesmo ano catequético.
+
+<div class="info">
+  <p><b>NOTA:</b>
+  O CatecheSis contabiliza as desistências por comparação entre as inscrições num determinado ano catequético e as inscrições no ano seguinte. Por esse motivo, a estatística <i>Desistências</i> só é apresentada até ao ano catequético anterior ao ano atualmente em curso.
+  </p>
+</div>
+
+#### 2.10.3 Percursos catequéticos completos
+
+O 1º gráfico mostra o número de catequizandos que terminaram o percurso catequético, por ano catequético.
+
+Considera-se que um percurso catequético é completo no ano em que o catequizando, tendo já completado o 10º catecismo (nesse ano ou num ano anterior), recebe o sacramento da Confirmação.
+
+O 2º gráfico mostra a percentagem de percursos catequéticos completos num determinado ano, face ao ideal esperado para esse mesmo ano.
+
+O ideal esperado corresponde ao número máximo de catequizandos que poderiam nesse ano terminar o 10º catecismo e receber o sacramento da Confirmação. Por exemplo, se considerarmos o ano de 2014/2015, são contabilizados para o ideal esperado todos os catequizandos inscritos no 10º catecismo nesse ano, mais os inscritos no 9º catecismo em 2013/2014, mais os inscritos no 8º catecismo em 2012/2013... A situação que maximiza a percentagem (100%) acontece quando num grupo de catequese nunca se verificarem desistências, ano após ano.
+
+#### 2.10.4 Percentagem de catequizandos residentes na paróquia
+
+O gráfico mostra a percentagem de catequizandos residentes e não residentes na área geográfica servida pela sua paróquia, considerando todos os catequizandos registados na base de dados (independentemente de estarem ou não inscritos num grupo de catequese neste ano).
+
+Considera-se um catequizando residente na paróquia se o código postal constante na sua ficha de inscrição pertencer a um conjunto de códigos postais considerados inclusos no território da paróquia (estes devem ser definidos na base de dados pela pessoa que instalou o CatecheSis).
+
+### 2.11 Criar uma sessão de Catequese Virtual
+
+Aceda ao menu _Catequese_ e selecione a opção _Criar Catequese Virtual_.
+
+Incialmente selecione o Catecismo/Grupo e a data que pretende.
+
+Através da caixa de texto e das diversas ferramentas disponíveis (formatação de texto, inserção de videos, imagens e hiperligações) é possivel criar uma catequese dinâmica e bem estruturada. 
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.17_criar_uma_catequese_virtual.png)
+
+<center><i> - Criar uma sessão de Catequese Virtual - </i></center><p></p>
+
+Para além das ferramentas enumaradas anteriormente, o Catechesis dispõe ainda de outras duas ferramentas úteis para o desevolvimento de Catequeses Virtuais:
+
+-**Recursos na nuvem**: Onde estão armazenados materias (tais como imagens, separadores, ícones) disponiblizados pelos catequistas da sua paroquia, e para os quais também pode contribuir;
+
+-**Sala Virtual**: Um espaço onde se pode reunir com os seus catequizandos à distância, através de uma videochamada. 
+
+<div class="info">
+  <p><b>NOTA:</b>
+    A funcionalidade <i>Recursos na nuvem</i> requer a existência da Catequese Cloud, cuja instalação é opcional, e poderá não estar disponível na sua paróquia.
+    Contacte a pessoa responsável pela instalação do CatecheSis na sua paróquia.
+  </p>
+</div>
+
+Quando o conteúdo da catequese estiver concluido, ou regularmente durante a sua criação, selecione a opção _Guardar_.
+
+Se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_.
+
+### 2.12 Inscrever um catequizando ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 <div class="info">
   <p><b>NOTA:</b> 
@@ -198,8 +501,7 @@ Clique no botão _Gerar_. Siga as instruções já apresentadas no tópico anter
   </p>
 </div>
 
-
-#### 2.4.1 Inscrever um novo catequizando
+#### 2.12.1 Inscrever um novo catequizando
 
 Aceda ao menu _Inscrições_ e selecione a opção _Inscrever novo catequizando_.
 
@@ -213,7 +515,7 @@ Clique no botão _Inscrever_.
 
 Depois de concluída a inscrição, pode consultar imediatamente a ficha do catequizando, o arquivo (onde poderá [2.9 Atribuir um catequizando a um grupo de catequese](#atribuir-um-catequizando-a-um-grupo-de-catequese), ou inscrever um irmão deste catequizando.
 
-#### 2.4.2 Inscrever um irmão
+#### 2.12.2 Inscrever um irmão
 
 Aceda primeiro à ficha do irmão do catequizando que pretende inscrever. Pode utilizar qualquer um dos métodos descritos neste manual para aceder à ficha. Consulte [2.6 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando)
 
@@ -233,245 +535,7 @@ Siga as mesmas instruções do tópico anterior, [2.4 Inscrever um novo catequiz
   </p>
 </div>
 
-### 2.5 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
-
-#### 2.5.1 Abrir/fechar as inscrições online
-
-Para abrir ou fechar o portal de inscrições e renovações de matrículas online, para encarregados de educação, comece por aceder à página de _Configurações_ (ícone da roda dentada no canto superior direito do ecrã).
-
-Na secção _Inscrições online_ deslize o interruptor de modo a que _ON_ fique visível.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.1_Abrir_fechar_inscricoes_online.png)
-<center><i> - Abrir/fechar inscrições online - </i></center><p></p>
-
-
-<div class="info">
-  <p><b>NOTA:</b> 
-  Para ligar/desligar interruptores como este, não é necessário clicar no botão <i>Editar</i> no canto superior direito do painel. A alteração é imediata.
-  </p>
-</div>
-
-A caixa imediatamente abaixo do interruptor indica-lhe o endereço do portal de inscrições online, que poderá divulgar junto dos encarregados de educação e interessados.
-
-Os restantes campos do painel permitem-lhe configurar um texto informativo a ser mostrado na página de inscrições, bem como a referência multibanco para receber donativos.
-
-À medida que forem chegando pedidos de inscrição/renovação, será mostrado o número de pedidos pendentes no menu _Inscrições_.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.5_inscricoes_online.png)
-
-<center><i> - Número de pedidos pendentes - </i></center><p></p>
-
-Para visualizar um resumo de todos os pedidos, aceda ao menu _Inscrições > Processar pedidos de inscrição online._
-
-
-#### 2.5.2 Visualizar pedidos de novas inscrições
-
-O primeiro separador apresenta os **pedidos de inscrição**, para quem se inscreve pela primeira vez.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.2_novas_inscricoes.png)
-
-<center><i> -Novas inscrições - </i></center><p></p>
-
-O programa sugere um catecismo para cada candidato, com base na sua idade e também no último catecismo que ele frequentou (caso tenha vindo de outra paróquia). Deste modo, já consegue prever quantos catequizandos novos entrarão em cada catecismo.
-
-
-#### 2.5.3 Visualizar pedidos de renovação de matrícula
-
-O separador **Renovações de matrícula** mostra de forma semelhante os pedidos de renovação que forem recebidos.
-
-Aqui pode ser visualizada a informação completa de um pedido clicando sobre essa linha da tabela.
-
-Esta página mostra o total de pedidos de renovação de todos os catecismos, no entanto, não é aqui que se processa a renovação.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_renovacoes_de_matricula.png)
-
-<center><i> - Renovações de matrícula - </i></center><p></p>
-
-
-#### 2.5.4 Aprovar renovações
-
-Para **aprovar uma renovação**, aceda ao menu _Inscrições > Renovar matrículas._
-
-Depois de criar os novos grupos para o novo ano catequético, selecione nesta página o ano catequético anterior e um catecismo.
-
-Surgirá a listagem dos catequizandos inscritos no grupo no ano anterior.
-
-No final da listagem, um painel azul que mostra os pedidos de renovação para esse catecismo que foram feitos online.
-
-Verifique se o nome de um catequizando aparece simultâneamente na listagem e no painel de renovações online. Em caso afirmativo, ative o botão à esquerda do nome dele (que fica verde) em ambas as listas. 
-
-Sugerimos que também verifique, sobre a linha do pedido, o telefone e o e-mail, e confirme na ficha do catequizando (clicando sobre ele na primeira listagem) se esses dados estão atualizados. Se não estiverem, pode aproveitar para os atualizar, porque isso não é feito automaticamente.
-
-Por fim clique no botão _Guardar_.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.5.4_aprovar_renovacoes.png)
-
-<center><i> - Aprovar renovações - </i></center><p></p>
-
-Nesse momento a renovação fica efetivamente aprovada, e o pedido passa para a lista de _Processados_.
-
-
-<div class="info">
-  <p><b>NOTA 1:</b> 
-  Ao aprovar os pedidos de renovação, não tem de processar um de cada vez. Pode selecionar simultâneamente vários catequizandos nas listas e clicar em <i>Guardar.</i>
-  </p>
-  <p><b>NOTA 2:</b> 
-  Quando os encarregados de educação fazem a inscrição/renovação online, é-lhes atribuído um número de inscrição que eles são aconselhados a guardar ou imprimir. Este número é o <i>ID do pedido</i> que pode consultado nas tabelas. Assim, se algum encarregado de educação tiver alguma dúvida sobre a inscrição, basta indicar o <i>ID do pedido</i> e um administrador pode encontrá-lo rapidamente na lista de pedidos pendentes ou processados.
-  </p>
-  <p><b>NOTA 3:</b> 
-  Existe uma barra de pesquisa no canto superior direito destas tabelas de pedidos que filtra pedidos por ID, nome da criança ou catecismo. Também pode ordenar os pedidos por qualquer uma das colunas (ID, nome, catecismo).
-  </p>
-  <p><b>NOTA 4:</b> 
-  Se receber pedidos estranhos/duvidosos, há um botão para eliminar. No entanto, recomendamos que só elimine nesses casos. O procedimento normal deve ser marcar um pedido como processado e não eliminá-lo, porque o pedido é a única prova que a coordenação da catequese detém de que o encarregado de educação realmente efetuou o pedido de inscrição.
-</div>
-
-
-### 2.6 Procurar e consultar a ficha de um catequizando
-
-#### 2.6.1 Procurar por nome / data de nascimento
-
-Aceda ao menu _Catequizandos_ e selecione a opção _Por nome / data de nascimento_.
-
-No campo _Nome_ pode escrever o nome completo ou apenas parte dele. Pode até escrever qualquer subconjunto de caracteres do nome separados por espaços, desde que estejam ordenados tal como surgem no nome do catequizando. Experimente, por exemplo, escrever apenas as iniciais do nome, separadas por espaços.
-
-A pesquisa não é sensível a maiúsculas/minúsculas, nem a acentos ou cedilhas.
-
-No campo _Nasceu a_ pode especificar a data de nascimento clicando com o rato na caixa ou utilizando teclado (no formado _dd-mm-aaaa_).
-
-Ambos os campos são opcionais.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_procurar_por_nome_data_de_nascimento.png)
-
-<center><i> - Procurar por nome / data de nascimento - </i></center><p></p>
-
-Clique sobre o nome de qualquer catequizando na lista de resultados para aceder à respectiva ficha.
-
-
-<div class="info">
-  <p><b>NOTA:</b> 
-  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.  
-  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
-  </p>
-</div>
-
-
-#### 2.6.2 Procurar por ano / catecismo
-
-Aceda ao menu _Catequizandos_ e selecione a opção _Por ano / catecismo_.
-
-Pode atribuir valores aos campos _Ano catequético_, _Catecismo_ e _grupo_. Todos eles são opcionais.
-
-É possível também filtrar os resultados obtidos segundo determinados critérios. Para tal, clique na linha _Aplicar filtros_ e surgirão mais opções.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.6.2_procurar_por_ano_catecismo.png)
-
-<center><i> - O Utilizador pediu todos os catequizandos inscritos no 1ºAno em 
-2022/2023 - </i></center><p></p>
-
-
-<div class="info">
-  <p><b>NOTA 1:</b>
-  Depois de clicar em <i>Pesquisar,</i> os resultados desta pesquisa (incluindo os filtros que aplicou) podem ser impressos ou exportados como um ficheiro do Microsoft Excel ou PDF. Para tal, utilize os botões <i>Imprimir</i> e <i>Exportar</i>, respectivamente, localizados imediatamente antes da lista de resultados.
-  </p>
-  <p><b>NOTA 2:</b>
-  Se especificar valores para os três campos <i>Ano catequético</i>, <i>catecismo</i> e <i>grupo</i>, surgirá juntamente com os resultados da pesquisa um botão que permite imprimir a folha de presenças para esse grupo de catequese bem como as fichas dos catequizandos.
-  </p>
-  <p><b>NOTA 3:</b>
-  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.
-  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
-  </p>
-</div>
-
-
-#### 2.6.3 Procurar por catequista
-
-Aceda ao menu _Catequizandos_ e selecione a opção _Por catequista_.
-
-Pode atribuir valores aos campos _Ano catequético_ e _Catequista_. Ambos são opcionais.
-
-É possível também filtrar os resultados obtidos segundo determinados critérios. Para tal, clique na linha _Aplicar filtros_ e surgirão mais opções. Consulte o exemplo no tópico anterior.
-
-
-<div class="info">
-  <p><b>NOTA 1:</b>
-  Depois de clicar em <i>Pesquisar,</i> os resultados desta pesquisa (incluindo os filtros que aplicou) podem ser impressos ou exportados como um ficheiro do Microsoft Excel ou PDF. Para tal, utilize os botões <i>Imprimir</i> e <i>Exportar</i>, respectivamente, localizados imediatamente antes da lista de resultados.
-  </p>
-  <p><b>NOTA 2:</b>
-  Se a sua conta for do tipo <i>Administrador</i> poderá abrir a ficha de qualquer catequizando.  
-  Caso contrário, só poderá abrir as fichas dos catequizandos que pertençam ao seu grupo de catequese neste ano catequético.
-  </p>
-</div>
-
-
-### 2.7 Consultar o arquivo acerca de um catequizando
-
-Proceda do mesmo modo que para [2.6 Procurar e consultar a ficha de um catequizando](#procurar-e-consultar-a-ficha-de-um-catequizando).
-
-Estando a ficha do catequizando aberta, clique sobre o separador _Arquivo_, no topo do ecrã.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.7_consultar_o_arquivo_acerca_de_um_catequizando.png)
-
-<center><i> - Consulta do arquivo acerca de um catequizando - </i></center><p></p>
-
-Neste ecrã poderá consultar detalhes do percurso catequético do catequizando, incluindo sacramentos, grupos de catequese e catequistas. Poderá também editar estes dados.
-
-### 2.8 Registar o aproveitamento dos catequizandos
-
-#### 2.8.1 Registar o aproveitamento dos meus catequizandos
-
-Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
-
-Surge uma lista com todos os seus catequizandos actuais. Para cada catequizando, classifique o seu aproveitamento clicando ou deslizando o botão localizado à esquerda do seu nome.
-
-Para terminar, clique em Guardar, no topo do ecrã.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.8.1_registar_o_aproveitamento_dos_meus_catequizandos.png)
-
-<center><i> - Registo do aproveitamento dos meus catequizandos - </i></center><p></p>
-
-#### 2.8.2 Abrir/fechar o período de avaliação ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
-
-Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
-
-Se a sua conta for de _Administrador_, surgirá no topo da janela um painel semelhante ao da figura abaixo:
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.8.2_abrir_fechar_o_periodo_de_avaliacao.png)
-
-<center><i> - Abrir/fechar o período de avaliação - </i></center><p></p>
-
-Este painel também se contra no ecrã _Configurações_ (ícone da roda dentada no canto superior direito do ecrã). 
-
-Clique ou deslize o botão azul. Quando o botão está definido para _ON_, o período de avaliação está aberto, e todos os catequistas podem avaliar os seus catequizandos. Quando o botão está definido para _OFF_, os catequistas não poderão alterar a avaliação dos catequizandos.
-
-### 2.9 Atribuir um catequizando a um grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
-
-Aceda ao arquivo do catequizando, conforme descrito no tópico [2.7 Consultar o arquivo acerca de um catequizando](#consultar-o-arquivo-acerca-de-um-catequizando).
-
-No painel _Percurso catequético_, concentre-se sobre a última linha da tabela. Preencha o ano catequético e o catecismo onde pretende colocar o catequizando. Seleccione a caixa _pago_ se a inscrição foi paga. Clique em _Adicionar_.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.9_atribuir_um_catequizando_a_um_grupo_de_catequese_1.png)
-
-<center><i> - Atribuição de um catequizando a um grupo de catequese - </i></center><p></p>
-
-É possível também retirar o catequizando de um grupo de catequese ou registar um pagamento posterior à inscrição. Para tal posicione o rato sobre a linha da tabela respeitante ao ano catequético que pretende e surgirão botões para efectuar estas acções.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.9_atribuir_um_catequizando_a_um_grupo_de_catequese_2.png)
-
-<center><i> - Alterar o catequizando de um grupo de catequese e registo de 
-pagamento - </i></center><p></p>
-
-
-<div class="info">
-  <p><b>NOTA:</b>
-  A coluna <i>Catequistas</i> é preenchida automaticamente quando forem definidos os catequistas para aquele grupo de catequese. Consulte <b>Criar e gerir grupos de catequese</b>
-  </p>
-</div>
-
-
-Se pretender transferir o catequizando para outro grupo de catequese, remova-o primeiro do grupo atual e inscreva-o de seguida no novo grupo, seguindo as instruções acima.
-
-
-### 2.10 Renovar matrículas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+### 2.13 Renovar matrículas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Inscrições_ e seleccione _Renovar matrículas_.
 
@@ -499,7 +563,6 @@ Para cada catequizando, indique se renova a matrícula clicando ou deslizando o 
 
 Para terminar, clique em Guardar, no topo da janela.
 
-
 <div class="info">
   <p><b>NOTA:</b>
   A página de renovações de matrícula também apresenta um painel com os pedidos de renovação feitos online, caso esteja a utilizar essa funcionalidade na sua paróquia.<br>
@@ -507,11 +570,123 @@ Para terminar, clique em Guardar, no topo da janela.
   </p>
 </div>
 
-### 2.11 Criar e gerir grupos de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+### 2.14 Atribuir um catequizando a um grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+Aceda ao arquivo do catequizando, conforme descrito no tópico [2.7 Consultar o arquivo acerca de um catequizando](#consultar-o-arquivo-acerca-de-um-catequizando).
+
+No painel _Percurso catequético_, concentre-se sobre a última linha da tabela. Preencha o ano catequético e o catecismo onde pretende colocar o catequizando. Seleccione a caixa _pago_ se a inscrição foi paga. Clique em _Adicionar_.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.9_atribuir_um_catequizando_a_um_grupo_de_catequese_1.png)
+
+<center><i> - Atribuição de um catequizando a um grupo de catequese - </i></center><p></p>
+
+É possível também retirar o catequizando de um grupo de catequese ou registar um pagamento posterior à inscrição. Para tal posicione o rato sobre a linha da tabela respeitante ao ano catequético que pretende e surgirão botões para efectuar estas acções.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.9_atribuir_um_catequizando_a_um_grupo_de_catequese_2.png)
+
+<center><i> - Alterar o catequizando de um grupo de catequese e registo de 
+pagamento - </i></center><p></p>
+
+<div class="info">
+  <p><b>NOTA:</b>
+  A coluna <i>Catequistas</i> é preenchida automaticamente quando forem definidos os catequistas para aquele grupo de catequese. Consulte <b>Criar e gerir grupos de catequese</b>
+  </p>
+</div>
+
+Se pretender transferir o catequizando para outro grupo de catequese, remova-o primeiro do grupo atual e inscreva-o de seguida no novo grupo, seguindo as instruções acima.
+
+### 2.15 Inscrições online ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+#### 2.15.1 Abrir/fechar as inscrições online
+
+Para abrir ou fechar o portal de inscrições e renovações de matrículas online, para encarregados de educação, comece por aceder à página de _Configurações_ (ícone da roda dentada no canto superior direito do ecrã).
+
+Na secção _Inscrições online_ deslize o interruptor de modo a que _ON_ fique visível.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.1_Abrir_fechar_inscricoes_online.png)
+<center><i> - Abrir/fechar inscrições online - </i></center><p></p>
+
+<div class="info">
+  <p><b>NOTA:</b> 
+  Para ligar/desligar interruptores como este, não é necessário clicar no botão <i>Editar</i> no canto superior direito do painel. A alteração é imediata.
+  </p>
+</div>
+
+A caixa imediatamente abaixo do interruptor indica-lhe o endereço do portal de inscrições online, que poderá divulgar junto dos encarregados de educação e interessados.
+
+Os restantes campos do painel permitem-lhe configurar um texto informativo a ser mostrado na página de inscrições, bem como a referência multibanco para receber donativos.
+
+À medida que forem chegando pedidos de inscrição/renovação, será mostrado o número de pedidos pendentes no menu _Inscrições_.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5_inscricoes_online.png)
+
+<center><i> - Número de pedidos pendentes - </i></center><p></p>
+
+Para visualizar um resumo de todos os pedidos, aceda ao menu _Inscrições > Processar pedidos de inscrição online._
+
+#### 2.15.2 Visualizar pedidos de novas inscrições
+
+O primeiro separador apresenta os **pedidos de inscrição**, para quem se inscreve pela primeira vez.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.2_novas_inscricoes.png)
+
+<center><i> -Novas inscrições - </i></center><p></p>
+
+O programa sugere um catecismo para cada candidato, com base na sua idade e também no último catecismo que ele frequentou (caso tenha vindo de outra paróquia). Deste modo, já consegue prever quantos catequizandos novos entrarão em cada catecismo.
+
+#### 2.15.3 Visualizar pedidos de renovação de matrícula
+
+O separador **Renovações de matrícula** mostra de forma semelhante os pedidos de renovação que forem recebidos.
+
+Aqui pode ser visualizada a informação completa de um pedido clicando sobre essa linha da tabela.
+
+Esta página mostra o total de pedidos de renovação de todos os catecismos, no entanto, não é aqui que se processa a renovação.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.3_renovacoes_de_matricula.png)
+
+<center><i> - Renovações de matrícula - </i></center><p></p>
+
+#### 2.15.4 Aprovar renovações
+
+Para **aprovar uma renovação**, aceda ao menu _Inscrições > Renovar matrículas._
+
+Depois de criar os novos grupos para o novo ano catequético, selecione nesta página o ano catequético anterior e um catecismo.
+
+Surgirá a listagem dos catequizandos inscritos no grupo no ano anterior.
+
+No final da listagem, um painel azul que mostra os pedidos de renovação para esse catecismo que foram feitos online.
+
+Verifique se o nome de um catequizando aparece simultâneamente na listagem e no painel de renovações online. Em caso afirmativo, ative o botão à esquerda do nome dele (que fica verde) em ambas as listas. 
+
+Sugerimos que também verifique, sobre a linha do pedido, o telefone e o e-mail, e confirme na ficha do catequizando (clicando sobre ele na primeira listagem) se esses dados estão atualizados. Se não estiverem, pode aproveitar para os atualizar, porque isso não é feito automaticamente.
+
+Por fim clique no botão _Guardar_.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.5.4_aprovar_renovacoes.png)
+
+<center><i> - Aprovar renovações - </i></center><p></p>
+
+Nesse momento a renovação fica efetivamente aprovada, e o pedido passa para a lista de _Processados_.
+
+<div class="info">
+  <p><b>NOTA 1:</b> 
+  Ao aprovar os pedidos de renovação, não tem de processar um de cada vez. Pode selecionar simultâneamente vários catequizandos nas listas e clicar em <i>Guardar.</i>
+  </p>
+  <p><b>NOTA 2:</b> 
+  Quando os encarregados de educação fazem a inscrição/renovação online, é-lhes atribuído um número de inscrição que eles são aconselhados a guardar ou imprimir. Este número é o <i>ID do pedido</i> que pode consultado nas tabelas. Assim, se algum encarregado de educação tiver alguma dúvida sobre a inscrição, basta indicar o <i>ID do pedido</i> e um administrador pode encontrá-lo rapidamente na lista de pedidos pendentes ou processados.
+  </p>
+  <p><b>NOTA 3:</b> 
+  Existe uma barra de pesquisa no canto superior direito destas tabelas de pedidos que filtra pedidos por ID, nome da criança ou catecismo. Também pode ordenar os pedidos por qualquer uma das colunas (ID, nome, catecismo).
+  </p>
+  <p><b>NOTA 4:</b> 
+  Se receber pedidos estranhos/duvidosos, há um botão para eliminar. No entanto, recomendamos que só elimine nesses casos. O procedimento normal deve ser marcar um pedido como processado e não eliminá-lo, porque o pedido é a única prova que a coordenação da catequese detém de que o encarregado de educação realmente efetuou o pedido de inscrição.
+</div>
+
+### 2.16 Criar e gerir grupos de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Catequese_ e selecione a opção _Gerir grupos de catequese_.
 
-#### 2.11.1 Criar grupos para um novo ano catequético
+#### 2.16.1 Criar grupos para um novo ano catequético
 
 Clique no separador _Novo ano catequético_.
 
@@ -520,19 +695,17 @@ Escreva na caixa o ano catequético para o qual pretende criar grupos. Pode esco
 - Criar 10 grupos de catequese, com 1 grupo por cada catecismo;
 - Criar um número de catecismos e grupos igual ao do último ano catequético registado na base de dados do CatecheSis;
 
-
 <div class="info">
   <p><b>NOTA:</b>
   A segunda opção só estará disponível se já existir pelo menos um ano catequético na base de dados.
   </p>
 </div>
 
-
 Clique em _Criar_.
 
 Em seguida, poderá adicionar grupos de catequese ou remover alguns dos grupos criados automaticamente neste passo.
 
-#### 2.11.2 Adicionar/remover grupos num ano catequético existente
+#### 2.16.2 Adicionar/remover grupos num ano catequético existente
 
 Aceda agora ao separador _Anos catequéticos existentes_ e selecione um ano catequético na caixa de selecção.
 
@@ -544,7 +717,7 @@ Para remover um grupo de catequese, posicione o rato sobre a respectiva linha da
 
 <center><i> - Adicionar/remover grupos num ano catequético existente - </i></center><p></p>
 
-#### 2.11.3 Definir os catequistas para um grupo de catequese
+#### 2.16.3 Definir os catequistas para um grupo de catequese
 
 Aceda ao separador _Anos catequéticos existentes_ e selecione um ano catequético na caixa de selecção.
 
@@ -560,19 +733,17 @@ Para adicionar um catequista ao grupo de catequese, selecione o seu nome na caix
 
 Para retirar um catequista do grupo de catequese, posicione o rato sobre a linha que contém o seu nome e clique no botão _Remover_ que surgirá à direita, na mesma linha.
 
-
 <div class="info">
   <p><b>NOTA:</b>
   Ao adicionar um catequista a um grupo de catequese, só encontrará na caixa de selecção os nomes de utilizadores com o atributo de <i>Catequista ativo</i>. Consulte <b>Criar e gerir utilizadores e catequistas</b>.
   </p>
 </div>
 
-
-### 2.12 Criar e gerir utilizadores e catequistas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+### 2.17 Criar e gerir utilizadores e catequistas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 Aceda ao menu _Administração_ e selecione a opção _Gerir utilizadores e catequistas_.
 
-#### 2.12.1 Criar uma nova conta de utilizador / catequista
+#### 2.17.1 Criar uma nova conta de utilizador / catequista
 
 Aceda ao separador _Novo utilizador_.
 
@@ -589,8 +760,7 @@ Clique no botão _Criar_.
   </p>
 </div>
 
-
-#### 2.12.2 Modificar a conta de um utilizador
+#### 2.17.2 Modificar a conta de um utilizador
 
 Aceda ao separador _Utilizadores existentes_.
 
@@ -613,7 +783,6 @@ As opções disponíveis relativamente ao atributo catequista são descritas de 
 - **Ativar** – Define o tipo de conta como _Catequista ativo_. O nome deste catequista passa a poder ser selecionado para constituir grupos de catequese.
 - **Desativar** – Define o tipo de conta como _Catequista inativo._ O nome deste catequista deixa de poder ser seleccionado para constituir grupos de catequese. No entanto, se o catequista já está inserido num grupo permanece inserido nesse grupo de catequese.
 
-
 <div class="info">
   <p><b>NOTA 1:</b>
   Não é possível bloquear nem revogar os privilégios de administrador da sua própria conta. Peça a outro administrador para o fazer.<br>
@@ -622,239 +791,6 @@ As opções disponíveis relativamente ao atributo catequista são descritas de 
   Não é possível eliminar a conta de um utilizador. Se deseja impedir que este utilizador aceda ao sistema, bloqueie a conta. Se o utilizador deixou de ser catequista, defina-o como <i>Catequista inativo</i> e bloqueie a conta.
   </p>
 </div>
-
-
-### 2.13 Gerar listagens de catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
-
-Aceda ao menu _Catequizandos_ e selecione uma das opções disponíveis abaixo da linha _Listar catequizandos_. As várias opções são descritas em seguida.
-
-Todas as listagens de sacramentos incluem o nome do catequizando, data de nascimento, a data e paróquia do sacramento em causa.
-
-#### 2.13.1 Listar baptismos
-
-Gera uma listagem de todos os baptismos registados na base de dados. Pode filtrar os resultados por ano do baptismo e/ou por paróquia.
-
-#### 2.13.2 Listar primeiras comunhões
-
-Gera uma listagem de todas as primeiras comunhões registadas na base de dados. Pode filtrar os resultados por ano da primeira comunhão e/ou por paróquia.
-
-#### 2.13.3 Listar profissões de fé
-
-Gera uma listagem de todas as profissões de fé registadas na base de dados. Pode filtrar os resultados por ano da profissão de fé e/ou por paróquia.
-
-#### 2.13.4 Listar confirmações
-
-Gera uma listagem de todas as confirmações registadas na base de dados. Pode filtrar os resultados por ano da confirmação e/ou por paróquia.
-
-#### 2.13.5 Listar escuteiros
-
-Gera uma listagem de todos os catequizandos que são escuteiros e que estão inscritos nalgum grupo de catequese neste ano catequético.
-
-### 2.14 Consultar/Imprimir sacramentos de todos os catequizandos
-
-É possível listar de uma forma sucinta todos os sacramentos de um conjunto de catequizandos, sob a forma de ícones:
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_1.png)
-
-<center><i> - Sacramentos - </i></center><p></p>
-
-Um ícone verde ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_2.png) indica que o sacramento em causa foi realizado na Paróquia. Um ícone cinzento ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_3.png) indica que o sacramento foi realizado noutra paróquia.
-Um ponto verde sobre o ícone indica que o comprovativo do respetivo sacramento foi carregado no CatecheSis e está disponível no arquivo do catequizando.
-
-
-<div class="info">
-  <p><b>NOTA:</b>
-  Deste modo, é fácil determinar para um grupo de catequese quais são as certidões de baptismo (por exemplo) que são necessárias pedir aos encarregados de educação, e quais aquelas que podem ser obtidas nesta mesma paróquia sem necessidade de incomodar os encarregados de educação.
-  </p>
-</div>
-
-
-Os ícones dos sacramentos estão disponíveis nas seguintes listagens:
-
-#### 2.14.1 Os meus catequizandos
-
-Aceda ao menu _Catequizandos_ > _Os meus catequizandos_.
-
-Clique em _Mostrar sacramentos._
-
-#### 2.14.2 Pesquisa por ano/catecismo
-
-Aceda ao menu _Catequizandos_ > _Por ano / catecismo_.
-
-Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
-
-#### 2.14.3 Pesquisa por catequista
-
-Aceda ao menu _Catequizandos_ > _Por catequista_.
-
-Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_4.png)
-
-<center><i> - Apresentação dos sacramentos dos catequizandos - </i></center><p></p>
-
-
-<div class="info">
-  <p><b>NOTA:</b>
-  Para imprimir a listagem com os sacramentos a cores (verde/cinzento), certifique-se de que o <i>navegador</i> está configurado para imprimir <i>cores de fundo e imagens</i>. Ver o <b>item IV</b> em <b>Problemas Conhecidos</b>
-  </p>
-</div>
-
-
-### 2.x Utilizar as ferramentas de apoio à decisão
-
-O CatecheSis dispõe de uma ferramenta de apoio à decisão que o ajuda a decidir quais os catequizandos que estão aptos para receber um determinado sacramento neste ano catequético, tendo em consideração o seu percurso catequético e algumas regras pré-definidas, bem como a detectar eventuais incorreções nas fichas dos catequizandos.
-
-<div class="info">
-  <p><b>NOTA:</b>
-   Se for um administrador, esta ferramenta irá mostrar-lhe um relatório completo com todos os catequizandos inscritos neste ano catequético.
-   Caso contrário, apenas serão mostrados catequizandos dos seus grupos de catequese.
-  </p>
-</div>
-
-
-#### 2.x.1 Listar catequizandos elegíveis para Baptismo
-
-Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Baptismos_.
-
-O relatório apresenta-lhe todos os catequizandos inscritos neste ano catequético, divididos em três listas:
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.x.1_Apoio_decisao_baptismo.png)
-
-- **Elegíveis para receber o sacramento** - aqueles que, em princípio, poderão receber o sacramento neste ano catequético. Confirme na coluna _Relatório_ se existem algumas ações necessárias a realizar antes da data do sacramento.
-- **Não cumprem os requisitos** - aqueles que, por não cumprirem todos os requisitos necessários, estão à partida impedidos de receber o sacramento neste ano catequético. Os requisitos podem corresponder à frequência de um determinado ano de catequese, ou a frequência da catequese há pelo menos dois anos, por exemplo.
-- **Já receberam o sacramento** - catequizandos que, por já terem recebido o sacramento, são excluídos das duas listas anteriores.
-
-Clique no título de cada uma destas listas para a expandir / colapsar.
-
-A coluna _Relatório_ alerta para eventuais problemas a resolver, tais como comprovativos de baptismo em falta, datas de sacramentos incorretas ou incompletas nas fichas dos catequizandos.
-
-Os catequizandos em cada uma das três listas são ordenados por ordem de gravidade dos problemas reportados na coluna _Relatório_.
-
-
-#### 2.x.2 Listar catequizandos elegíveis para Primeira Comunhão
-
-Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Primeiras Comunhões_.
-
-O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
-
-#### 2.x.3 Listar catequizandos elegíveis para Crisma
-
-Aceda ao menu _Sacramentos_ e, na secção _Apoio à decisão_, clique em _Crismas_.
-
-O relatório funciona conforme descrito na secção [2.x.1 Listar catequizandos elegíveis para Baptismo](#listar-catequizandos-elegiveis-para-baptismo).
-
-
-#### 2.x.4 Listar catequizandos com dados inconsistentes
-
-Aceda ao menu _Análise_ e, na secção _Dados_, clique em _Dados insconsistentes_.
-
-Neste relatório, são reportados outros tipos de problemas relacionados com as fichas dos catequizandos, tais como dados incompletos ou incorretos.
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.x.4_Relatorio_dados_inconsistentes.png)
-
-
-Apesar do conteúdo e da finalidade serem diferentes, o aspeto do relatório e o seu funcionamento é muito semelhante ao dos relatórios de apoio à decisão para sacramentos, descritos nas secções anteriores.
-
-
-### 2.15 Consultar estatísticas acerca da catequese paroquial
-
-Aceda ao menu _Estatísticas_ e selecione uma das opções disponíveis. As várias opções são descritas em seguida.
-
-#### 2.15.1 Número de catequizandos por catequista
-
-O gráfico mostra a evolução do número de catequizandos por cada catequista, ao longo dos anos catequéticos.
-
-A tabela mostra o número total de catequizandos que já passaram por cada catequista (contabilizando apenas os dados de anos catequéticos presentes na base de dados do CatecheSis).
-
-A coluna _Total de catequizandos_ soma indiscriminadamente os valores apresentados no gráfico para um dado catequista.
-
-A coluna _Total de catequizandos distintos_ é mais significativa, pois não soma duas vezes o mesmo catequizando.
-
-#### 2.15.2 Desistências
-
-O 1º gráfico mostra o número de desistências por ano catequético.
-
-Considera-se uma desistência no ano catequético de 2014/2015, por exemplo, se um catequizando inscrito num grupo de catequese nesse ano não se inscrever em nenhum grupo de catequese no ano catequético 2015/2016, excepto no caso de o catequizando estar no 10º catecismo em 2014/2015 (nesse caso considera-se que terminou o percurso catequético).
-
-O 2º gráfico mostra a percentagem de desistências por ano catequético.
-
-A percentagem é obtida dividindo o número calculado no gráfico anterior para um determinado ano catequético pelo número total de catequizandos inscritos nalgum grupo de catequese nesse mesmo ano catequético.
-
-
-<div class="info">
-  <p><b>NOTA:</b>
-  O CatecheSis contabiliza as desistências por comparação entre as inscrições num determinado ano catequético e as inscrições no ano seguinte. Por esse motivo, a estatística <i>Desistências</i> só é apresentada até ao ano catequético anterior ao ano atualmente em curso.
-  </p>
-</div>
-
-
-#### 2.15.3 Percursos catequéticos completos
-
-O 1º gráfico mostra o número de catequizandos que terminaram o percurso catequético, por ano catequético.
-
-Considera-se que um percurso catequético é completo no ano em que o catequizando, tendo já completado o 10º catecismo (nesse ano ou num ano anterior), recebe o sacramento da Confirmação.
-
-O 2º gráfico mostra a percentagem de percursos catequéticos completos num determinado ano, face ao ideal esperado para esse mesmo ano.
-
-O ideal esperado corresponde ao número máximo de catequizandos que poderiam nesse ano terminar o 10º catecismo e receber o sacramento da Confirmação. Por exemplo, se considerarmos o ano de 2014/2015, são contabilizados para o ideal esperado todos os catequizandos inscritos no 10º catecismo nesse ano, mais os inscritos no 9º catecismo em 2013/2014, mais os inscritos no 8º catecismo em 2012/2013... A situação que maximiza a percentagem (100%) acontece quando num grupo de catequese nunca se verificarem desistências, ano após ano.
-
-#### 2.15.3 Percentagem de catequizandos residentes na paróquia
-
-O gráfico mostra a percentagem de catequizandos residentes e não residentes na área geográfica servida pela sua paróquia, considerando todos os catequizandos registados na base de dados (independentemente de estarem ou não inscritos num grupo de catequese neste ano).
-
-Considera-se um catequizando residente na paróquia se o código postal constante na sua ficha de inscrição pertencer a um conjunto de códigos postais considerados inclusos no território da paróquia (estes devem ser definidos na base de dados pela pessoa que instalou o CatecheSis).
-
-### 2.16 Monitorizar os acessos ao CatecheSis ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
-
-Aceda ao menu _Administração_ e selecione a opção _Registos de atividade do sistema_.
-
-O separador _Actividade no CatecheSis_ dá acesso aos registos das acções dos utilizadores, tais como inscrições de novos catequizandos, modificação e eliminação de fichas, criação e alteração da constituição de grupos de catequese, modificação de dados pessoais, criação ou modificação de contas de utilizadores.
-
-Os registos incluem data, hora e o nome de utilizador, além de uma descrição da acção efectuada.
-
-O separador _Autenticações_ regista a data, hora e endereço de rede da máquina utilizada por cada utilizador quando este se autentica. São registadas todas as autenticações no sistema, bem como todas as tentativas falhadas de autenticação e ainda eventos de criação de novas contas de utilizador.
-
-
-<div class="info">
-  <p><b>NOTA:</b>
-  Não é possível modificar nem eliminar os registos de atividade nem de autenticações.
-  Registos muito antigos são automaticamente eliminados à medida que novos são introduzidos, de acordo com regras pré-estabelecidas no CatecheSis.
-  </p>
-</div>
-
-
-### 2.17 Criar uma sessão de Catequese Virtual
-
-Aceda ao menu _Catequese_ e selecione a opção _Criar Catequese Virtual_.
-
-Incialmente selecione o Catecismo/Grupo e a data que pretende.
-
-Através da caixa de texto e das diversas ferramentas disponíveis (formatação de texto, inserção de videos, imagens e hiperligações) é possivel criar uma catequese dinâmica e bem estruturada. 
-
-
-![](img/user_manual/2_efectuar_uma_tarefa/2.17_criar_uma_catequese_virtual.png)
-
-<center><i> - Criar uma sessão de Catequese Virtual - </i></center><p></p>
-
-
-Para além das ferramentas enumaradas anteriormente, o Catechesis dispõe ainda de outras duas ferramentas úteis para o desevolvimento de Catequeses Virtuais:
-
--**Recursos na nuvem**: Onde estão armazenados materias (tais como imagens, separadores, ícones) disponiblizados pelos catequistas da sua paroquia, e para os quais também pode contribuir;
-
--**Sala Virtual**: Um espaço onde se pode reunir com os seus catequizandos à distância, através de uma videochamada. 
-
-<div class="info">
-  <p><b>NOTA:</b>
-    A funcionalidade <i>Recursos na nuvem</i> requer a existência da Catequese Cloud, cuja instalação é opcional, e poderá não estar disponível na sua paróquia.
-    Contacte a pessoa responsável pela instalação do CatecheSis na sua paróquia.
-  </p>
-</div>
-
-
-Quando o conteúdo da catequese estiver concluido, ou regularmente durante a sua criação, selecione a opção _Guardar_.
-
-Se pretender visualizar o resultado final, selecione a opção _Pré-visualizar_.
 
 ### 2.18 Alterar configurações do Catechesis
 
@@ -899,8 +835,22 @@ _Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-min
 
 - Definir os reponsáveis pelo tratamento de dados, necessários para o Regulamento Geral sobre a Proteção de Dados (RGPD). Estes dados são utilizados para gerar automaticamente a declaração de consentimento de tratamento de dados pessoais, apresentada aos encarregados de educação que efetuarem uma inscrição/renovação de matrícula online.
 
+### 2.19 Monitorizar os acessos ao CatecheSis ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
+Aceda ao menu _Administração_ e selecione a opção _Registos de atividade do sistema_.
 
+O separador _Actividade no CatecheSis_ dá acesso aos registos das acções dos utilizadores, tais como inscrições de novos catequizandos, modificação e eliminação de fichas, criação e alteração da constituição de grupos de catequese, modificação de dados pessoais, criação ou modificação de contas de utilizadores.
+
+Os registos incluem data, hora e o nome de utilizador, além de uma descrição da acção efectuada.
+
+O separador _Autenticações_ regista a data, hora e endereço de rede da máquina utilizada por cada utilizador quando este se autentica. São registadas todas as autenticações no sistema, bem como todas as tentativas falhadas de autenticação e ainda eventos de criação de novas contas de utilizador.
+
+<div class="info">
+  <p><b>NOTA:</b>
+  Não é possível modificar nem eliminar os registos de atividade nem de autenticações.
+  Registos muito antigos são automaticamente eliminados à medida que novos são introduzidos, de acordo com regras pré-estabelecidas no CatecheSis.
+  </p>
+</div>
 
 ## 3. Requisitos de sistema
 
