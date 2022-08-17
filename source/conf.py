@@ -80,8 +80,8 @@ html_logo = "./img/logos/AF_CatecheSis_Logo_Navbar.png"
 # material theme options (see theme.conf for more information)
 html_theme_options = {
     "base_url": "https://catechesis.org.pt/",
-    #"repo_url": "https://github.com/.../...",
-    #"repo_name": "Manual de Utilização - CatecheSis",
+    #"repo_url": "https://github.com/CatecheSis-org-pt/catechesis-user-manual",
+    #"repo_name": "CatecheSis - Manual do Utilizador",
     #"repo_type": "github",
     #"google_analytics_account": "UA-XXXXX",
     "html_minify": False,
