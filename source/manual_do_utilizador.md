@@ -323,11 +323,11 @@ Gera uma listagem de todos os catequizandos que são escuteiros e que estão ins
 
 É possível listar de uma forma sucinta todos os sacramentos de um conjunto de catequizandos, sob a forma de ícones:
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_1.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.8_consultar_imprimir_sacramentos_de_todos_os_catequizandos_1.png)
 
 <center><i> - Sacramentos - </i></center><p></p>
 
-Um ícone verde ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_2.png) indica que o sacramento em causa foi realizado na Paróquia. Um ícone cinzento ![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_3.png) indica que o sacramento foi realizado noutra paróquia.
+Um ícone verde ![](img/user_manual/2_efectuar_uma_tarefa/2.8_consultar_imprimir_sacramentos_de_todos_os_catequizandos_2.png) indica que o sacramento em causa foi realizado na Paróquia. Um ícone cinzento ![](img/user_manual/2_efectuar_uma_tarefa/2.8_consultar_imprimir_sacramentos_de_todos_os_catequizandos_3.png) indica que o sacramento foi realizado noutra paróquia.
 Um ponto verde sobre o ícone indica que o comprovativo do respetivo sacramento foi carregado no CatecheSis e está disponível no arquivo do catequizando.
 
 <div class="info">
@@ -356,7 +356,7 @@ Aceda ao menu _Catequizandos_ > _Por catequista_.
 
 Efetue uma pesquisa e depois clique em _Mostrar sacramentos._
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.14_consultar_imprimir_sacramentos_de_todos_os_catequizandos_4.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.8_consultar_imprimir_sacramentos_de_todos_os_catequizandos_4.png)
 
 <center><i> - Apresentação dos sacramentos dos catequizandos - </i></center><p></p>
 
