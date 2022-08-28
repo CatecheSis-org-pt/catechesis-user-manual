@@ -36,7 +36,7 @@ Ainda no canto superior direito, estão localizados mais dois _icons_: o botão 
 Ao centro da página é apresentada alguma informação util ao catequista:
 
 - **Os seus grupos de catequese**: São apresentados os vários grupos de catequese assim como aniversários dentro desse mesmo grupo de Catequese. Existe ainda a possibilidade de ir para _os meus catequizandos_, de forma rápida.
-- **Dados dos seus catequizandos**: Indica de forma visual se as fichas dos seus catequizandos contêm alguma informação incompleta ou incorreta. A cor da _caixa_ varia consoante a gravidade inconsistência de dados. Selecionando a opção _Ver relatório_ é apresentado o relatório completo dos dados inconsistentes dos seus catequizandos (por exemplo, números de telefone inválidos, datas de baptismo inválidas, ou comprovativos de baptismo em falta). _Veja também [2.x.4 Listar catequizandos com dados inconsistentes](#listar-catequizandos-com-dados-inconsistentes)_.
+- **Dados dos seus catequizandos**: Indica de forma visual se as fichas dos seus catequizandos contêm alguma informação incompleta ou incorreta. A cor da _caixa_ varia consoante a gravidade inconsistência de dados. Selecionando a opção _Ver relatório_ é apresentado o relatório completo dos dados inconsistentes dos seus catequizandos (por exemplo, números de telefone inválidos, datas de baptismo inválidas, ou comprovativos de baptismo em falta). _Veja também [2.9.4 Listar catequizandos com dados inconsistentes](#listar-catequizandos-com-dados-inconsistentes)_.
 - **Acessos rápidos**: São apresentados os vários alguns acessos rápidos, úteis para o catequista. 
 
 ![](img/user_manual/1_conceitos_basicos/1.1_utilizar_menus.png)
