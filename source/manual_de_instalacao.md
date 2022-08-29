@@ -39,7 +39,7 @@ Antes de iniciar a instalação, certifque-se de que o seu servidor cumpre os se
 
 Visite a página [https://catechesis.org.pt](https://catechesis.org.pt) e navegue até à secção *Transferir* para descarregar um ficheiro compactado contendo o CatecheSis.
 
-O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a versão (por exemplo, `catechesis-v2.0.0.zip`).
+O ficheiro tem um nome da forma `CatecheSis-vX.Y.Z.tar.gz` onde *X.Y.Z* designa a versão (por exemplo, `CatecheSis-v2.0.0.tar.gz`).
 
 
 
@@ -47,7 +47,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 #### 2.2.1 Preparativos
 
-1. Carregue no seu servidor web, na diretoria pública principal (geralmente `public_html` ou `/var/www`) ou numa subdiretoria daquela,  o ficheiro `catechesis-vX.Y.Z.zip` que descarregou do site oficial e descomprima-o.
+1. Carregue no seu servidor web, na diretoria pública principal (geralmente `public_html` ou `/var/www`) ou numa subdiretoria daquela,  o ficheiro `CatecheSis-vX.Y.Z.tar.gz` que descarregou do site oficial e descomprima-o.
 
 2. Certifique-se de que o utilizador do sistema que executa o processo do Apache/PHP tem permissões de escrita na diretoria que acaba de descompactar e em todas as suas subdiretorias e ficheiros.
 
@@ -57,7 +57,7 @@ O ficheiro tem um nome da forma `catechesis-vX.Y.Z.zip` onde *X.Y.Z* designa a v
 
 #### 2.2.2 Instalar utilizando o assistente de instalação
 
-1. Inicie um navegador *web* e aceda ao endereço `https://<URL_do_CatecheSis>/setup`, onde `<URL_do_CatecheSis>` designa o endereço onde ficará disponível o CatecheSis (por exemplo: *aminhaparoquia.pt/catechesis*).
+1. Inicie um navegador *web* e aceda ao endereço `https://<URL_do_CatecheSis>/setup`, onde `<URL_do_CatecheSis>` designa o endereço onde ficará disponível o CatecheSis (por exemplo: *example.com/catechesis*).
 
     Deverá ser mostrada a seguinte página:
     ![](img/setup/Assistente_de_instalacao_1.png)
@@ -205,9 +205,9 @@ Para tal, os passos genéricos são estes:
    Depois, substitua todos os campos nesse ficheiro pelos valores apropriados, nomeadamente:
 
    | Campo                     | Descrição                                                                                        |
-   |---------------------------|--------------------------------------------------------------------------------------------------|
-   | CATECHESIS_DOMAIN         | O seu domínio na internet (ex: *aminhaparoquia.pt*).                                             |
-   | CATECHESIS_BASE_URL       | A URL da página principal do CatecheSis (ex: *https://aminhaparoquia.pt/catechesis*)             |
+   |--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+   | CATECHESIS_DOMAIN         | O seu domínio na internet (ex: *example.com*).                                                   |
+   | CATECHESIS_BASE_URL       | A URL da página principal do CatecheSis (ex: *https://example.com/catechesis*)                   |
    | CATECHESIS_ROOT_DIRECTORY | O caminho para a diretoria principal do CatecheSis, no seu servidor. (ex: */var/www/catechesis*) |
    | CATECHESIS_DATA_DIRECTORY | O caminho para a diretoria de dados que criou no passo 4. (ex: */home/catechesis_data*)          |
 
@@ -255,7 +255,7 @@ Existem alguns passos adicionais que têm de ser executados manualmente, para co
 A Catequese Cloud é um componente opcional. Trata-se de uma plataforma de partilha de ficheiros (vulgarmente chamada de "cloud"), baseada no software open-source [NextCloud](https://nextcloud.com/).
 O CatecheSis possui integrações específicas com a Nextcloud, de forma a que possa utilizar as mesmas contas de utilizador para aceder a ambos os sistemas, e para que possa facilmente utilizar recursos da nuvem nas sessões de catequese virtual.
 
-Atualmente, a documentação de configuração da Catequese Cloud e respetiva integração com o CatecheSis encontra-se apenas disponível em língua inglesa, no [repositório de código do CatecheSis](https://github.com).
+Atualmente, a documentação de configuração da Catequese Cloud e respetiva integração com o CatecheSis encontra-se apenas disponível em língua inglesa, no [repositório de código do CatecheSis](https://github.com/CatecheSis-org-pt/catechesis/blob/master/integrations/Nextcloud/CatecheSis%20Nextcloud%20integration.md).
 
 
 ## 4. Manter o CatecheSis atualizado
