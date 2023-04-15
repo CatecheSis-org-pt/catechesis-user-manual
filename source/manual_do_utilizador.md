@@ -830,7 +830,16 @@ _Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-min
 
 #### 2.18.7 Dados da paróquia ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-- Definir o logotipo da paróquia e as respetivas informações (nome, localidade, e diocese).
+- Definir o logotipo da paróquia e as respetivas informações (nome, localidade, diocese e país).
+
+<div class="info">
+  <p><b>IMPORTANTE:</b>
+  A configuração do <b>país</b> define determinados ajustes regionais, tais como o número de dígitos dos códigos postais
+e telefones, a exibição dos anos catequéticos e os seus meses de início/fim (por exemplo, em Portugal a catequese decorre
+geralmente entre Setembro e Junho, enquanto no Brasil costuma ser entre Março e Dezembro).<br>
+  É importante por isso que defina corretamente o país onde está a utilizar o CatecheSis.
+  </p>
+</div>
 
 #### 2.18.8 Proteção de dados (RGPD) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
