@@ -243,7 +243,7 @@ Neste ecrã poderá consultar detalhes do percurso catequético do catequizando,
 
 Aceda ao menu _Catequizandos_ e selecione a opção _Os meus catequizandos._
 
-No ecrã que surge, clique no botão _Ir para reprografia._
+No ecrã que surge, clique no botão _Ir para a Área de Impressão._
 
 Seleccione o separador _Folha de presenças_ e clique em _Imprimir_. Obtém uma tabela pré-preenchida com os nomes dos seus catequizandos e as datas de todas as sessões desde o início de Setembro até ao fim de Junho. É recomendado que configure a impressora para imprimir a folha na horizontal. Poderá também ser necessário alterar a escala de impressão para que todas as colunas sejam legíveis. Consulte a ajuda do seu _navegador_.
 
@@ -253,7 +253,7 @@ Seleccione o separador _Pré-Inscrições_ e clique em _Transferir_. Obtém um f
 
 #### 2.5.2 Para outro grupo de catequese ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-Aceda ao menu _Catequese_ e selecione _Reprografia_.
+Aceda ao menu _Catequese_ e selecione _Área de Impressão_.
 
 Introduza o ano catequético, catecismo e grupo para a qual pretende gerar a folha de presenças e as fichas dos catequizandos.
 
@@ -261,7 +261,7 @@ Clique no botão _Gerar_. Siga as instruções já apresentadas no tópico anter
 
 <div class="info">
   <p><b>NOTA:</b> 
-  Também pode gerar a folha de presenças, as fichas dos catequizandos ou as fichas de pré-inscrição a partir de uma pesquisa por ano/catecismo. Aceda ao menu <i>Catequizandos</i> e selecione a opção <i>Por ano/catecismo</i>. Especifique o ano catequético, catecismo e grupo e clique em <i>Pesquisar</i>. Surgirá então o botão <i>Imprimir folhas de presenças</i>.
+  Também pode gerar a folha de presenças, as fichas dos catequizandos ou as fichas de pré-inscrição a partir de uma pesquisa por ano/catecismo. Aceda ao menu <i>Catequizandos</i> e selecione a opção <i>Por ano/catecismo</i>. Especifique o ano catequético, catecismo e grupo e clique em <i>Pesquisar</i>. Surgirá então o botão <i>Ir para a Área de Impressão</i>.
   </p>
 </div>
 
