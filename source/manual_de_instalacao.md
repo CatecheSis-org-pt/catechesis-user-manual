@@ -190,7 +190,7 @@ Para tal, os passos genéricos são estes:
 
 1. Crie uma base se dados MySQL.
 
-2. Execute, por esta ordem, os scripts SQL `catechesis_database.sql`, `ulogin_database.sql` e `script_collation.sql` localizados na diretoria `setup`.
+2. Execute, por esta ordem, os scripts SQL `catechesis_database.sql` e `ulogin_database.sql` localizados na diretoria `setup`.
 
 3. [OPCIONAL] Para uma segurança reforçada, pode criar utilizadores da base de dados específicos para cada contexto de segurança. Para tal, preencha as respetivas palavras-passe no ficheiro `users.sql` e execute esse script.
 
