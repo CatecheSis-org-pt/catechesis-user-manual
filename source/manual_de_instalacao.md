@@ -240,14 +240,12 @@ Para tal, os passos genéricos são estes:
 
 Existem alguns passos adicionais que têm de ser executados manualmente, para concluir a instalação do CatecheSis.
 
-1. Substitua, no ficheiro `.htaccess` presente na diretoria principal do CatecheSis, o URL completo para as páginas de erro `erro404.php` e `erro500.html`, que serão mostradas aos visitantes em caso de erro.
-
-2. Confirme, utilizando um navegador web, que o conteúdo das pastas internas do CatecheSis (nomeadamente `core`) não está a ser servido. 
+1. Confirme, utilizando um navegador web, que o conteúdo das pastas internas do CatecheSis (nomeadamente `core`) não está a ser servido. 
 
    Esta verificação destina-se a testar se o seu servidor está corretamente configurado para interpretar as diretrizes dos ficheiros `.htaccess` que bloqueiam o acesso dos visitantes a determinadas áreas internas do CatecheSis.
    Se necessário, corrija a configuração do servidor web.
 
-3. Para que a funcionalidade de estatísticas de catequizandos residentes na paróquia funcione, é necessário preencher tabela `cod_postais_paroquia` da base de dados com os códigos postais abrangidos pela sua paróquia.
+2. Para que a funcionalidade de estatísticas de catequizandos residentes na paróquia funcione, é necessário preencher tabela `cod_postais_paroquia` da base de dados com os códigos postais abrangidos pela sua paróquia.
 
 
 ## 3. Instalar a Catequese Cloud [OPCIONAL]
