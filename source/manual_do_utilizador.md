@@ -863,6 +863,74 @@ O separador _Autenticações_ regista a data, hora e endereço de rede da máqui
   </p>
 </div>
 
+
+
+### 2.20 Manter o CatecheSis atualizado ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+### 2.20.1 Notificação de atualização
+
+O CatecheSis procura automaticamente a existência de atualizações periodicamente.
+
+Quando estiver disponível uma nova versão, o CatecheSis irá apresentar um novo ícone no canto superior direito da barra 
+de menu, que corresponde a uma seta ascendente.
+
+![ícon atualiação](./img/user_manual/2_efectuar_uma_tarefa/2.20_icon_atualizacao.png)
+
+Clique no ícon da seta para abrir a notificação de atualização.
+
+A notificação indica a versão do CatecheSis atualmente instalada no seu servidor e a versão disponível para transferir.
+
+![notificação de atualização](./img/user_manual/2_efectuar_uma_tarefa/2.20_notificacao_atualizacao.png)
+
+Faça clique sobre o botão *Atualizar* para lançar o Assitente de Atualização.
+
+<div class="info">
+  <p><b>NOTA:</b>
+  Todos os utilizadores podem ver a notificação de atualização.
+  Contudo, apenas os administradores podem lançar o processo de atualização.
+  </p>
+</div>
+
+
+### 2.20.2 Verificar manualmente a existência de atualizações
+
+Apesar de o CatecheSis procurar automaticamente, e de forma periódica, a existência de atualizações, pode também
+verificar manualmente a existência de atualizações.
+
+Aceda ao menu ❔ (Ajuda), no canto superior direito da barra de menu, e clique em *Acerca do CatecheSis...*.
+
+Na caixa de diálogo "Acerca do CatecheSis", clique no botão *Procurar atualizações*, por baixo da versão.
+
+![procurar atualizações](./img/user_manual/2_efectuar_uma_tarefa/2.20_procurar_atualizacoes.png)
+
+O Assistente de Atualização irá verificar se existe uma nova versão disponível e permitir-lhe-á aplicar a atualização.
+
+
+### 2.20.3 Utilizar o Assistente de Atualização
+
+O Assistente de Atualização verifica se existe uma nova versão do CatecheSis disponível e permite-lhe descarregar e 
+aplicar automaticamente a atualização.
+
+![assistente de atualização](./img/user_manual/2_efectuar_uma_tarefa/2.20_assistente_atualizacao.png)
+
+Se estiver disponível uma nova versão do CatecheSis, faça clique em *Seguinte* para iniciar o processo de atualização.
+
+O CatecheSis irá transferir a atualização e aplicá-la.
+
+<div class="info">
+  <p><b>NOTA:</b>
+  É recomendado que realize uma cópia de segurança da base de dados e da diretoria de dados do CatecheSis
+  antes de proceder a uma atualização.
+  </p>
+</div>
+
+<div class="info">
+  <p><b>NOTA:</b>
+  É preferível escolher para a atualização uma hora em que não existam outros utilizadores a aceder ao CatecheSis,
+  para minimizar o risco de erros ao atualizar a base de dados.
+  </p>
+</div>
+
 ## 3. Requisitos de sistema
 
 _Características essenciais_

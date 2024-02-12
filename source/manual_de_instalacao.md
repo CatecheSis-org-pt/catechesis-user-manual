@@ -258,8 +258,9 @@ Atualmente, a documentação de configuração da Catequese Cloud e respetiva in
 
 ## 4. Manter o CatecheSis atualizado
 
-A funcionalidade de atualizações automáticas encontra-se ainda em desenvolvimento.
+O CatecheSis irá apresentar uma notificação quando estiver disponível uma nova versão para transferir, e inclui um
+Assistente de Atualização que transfere e instala automaticamente atualizações, quando estas estiverem disponíveis.
 
-Entretanto, para garantir que executa a versão mais recente do CatecheSis e estar assim a par das últimas funcionalidades e correções de segurança, visite regularmente a página [https://catechesis.org.pt](https://catechesis.org.pt). Ali serão disponibilizadas as atualizações para *download*, assim como as instruções necessárias para aplicar as atualizações. 
-
+Para mais informações sobre o processo de atualização, consulte a secção
+*[Manter o CatecheSis atualizado](manual_do_utilizador.md#220-manter-o-catechesis-atualizado-)* no [Manual do Utilizador](./manual_do_utilizador.md).
 
