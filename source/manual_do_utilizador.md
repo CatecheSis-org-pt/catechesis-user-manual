@@ -882,14 +882,8 @@ A notificação indica a versão do CatecheSis atualmente instalada no seu servi
 
 ![notificação de atualização](./img/user_manual/2_efectuar_uma_tarefa/2.20_notificacao_atualizacao.png)
 
-Faça clique sobre o botão *Atualizar* para lançar o Assitente de Atualização.
+Faça clique sobre o botão *Atualizar* para lançar o Assistente de Atualização.
 
-<div class="info">
-  <p><b>NOTA:</b>
-  Todos os utilizadores podem ver a notificação de atualização.
-  Contudo, apenas os administradores podem lançar o processo de atualização.
-  </p>
-</div>
 
 
 ### 2.20.2 Verificar manualmente a existência de atualizações
