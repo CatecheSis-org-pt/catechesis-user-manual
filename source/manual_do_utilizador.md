@@ -475,7 +475,7 @@ Através da caixa de texto e das diversas ferramentas disponíveis (formatação
 
 <center><i> - Criar uma sessão de Catequese Virtual - </i></center><p></p>
 
-Para além das ferramentas enumaradas anteriormente, o Catechesis pode dispor ainda de **Rrecursos na nuvem**, onde estão armazenados materias (tais como imagens, separadores, ícones) disponiblizados pelos catequistas da sua paroquia, e para os quais também pode contribuir;
+Para além das ferramentas enumaradas anteriormente, o Catechesis pode dispor ainda de **Recursos na nuvem**, onde estão armazenados materias (tais como imagens, separadores, ícones) disponiblizados pelos catequistas da sua paroquia, e para os quais também pode contribuir;
 
 <div class="info">
   <p><b>NOTA:</b>
