@@ -599,7 +599,11 @@ Se pretender transferir o catequizando para outro grupo de catequese, remova-o p
 
 Para abrir ou fechar o portal de inscrições e renovações de matrículas online, para encarregados de educação, comece por aceder à página de _Configurações_ (ícone da roda dentada no canto superior direito do ecrã).
 
-Na secção _Inscrições online_ deslize o interruptor de modo a que _ON_ fique visível.
+Na secção _Inscrições online_ encontrará dois interruptores:
+- **Novas inscrições** - Controla se os encarregados de educação podem fazer novas inscrições online;
+- **Renovações de matrícula** - Controla se os encarregados de educação podem fazer renovações de matrícula online;
+
+Deslize cada interruptor de modo a que _ON_ fique visível para ativar a respetiva funcionalidade.
 
 ![](img/user_manual/2_efectuar_uma_tarefa/2.15.1_abrir_fechar_inscricoes_online.png)
 
@@ -607,11 +611,19 @@ Na secção _Inscrições online_ deslize o interruptor de modo a que _ON_ fique
 
 <div class="info">
   <p><b>NOTA:</b> 
-  Para ligar/desligar interruptores como este, não é necessário clicar no botão <i>Editar</i> no canto superior direito do painel. A alteração é imediata.
+  Para ligar/desligar interruptores como estes, não é necessário clicar no botão <i>Editar</i> no canto superior direito do painel. A alteração é imediata.
   </p>
 </div>
 
-A caixa imediatamente abaixo do interruptor indica-lhe o endereço do portal de inscrições online, que poderá divulgar junto dos encarregados de educação e interessados.
+<div class="info">
+  <p><b>NOTA:</b> 
+  É possível ter ambos ou apenas um dos tipos de inscrição aberto. Por exemplo, pode abrir apenas as novas inscrições e manter as renovações fechadas, ou vice-versa.<br>
+  No primeiro ano em que utiliza o CatecheSis na sua paróquia, é recomendável que abra apenas novas inscrições, mantendo o interruptor para renovações de matrícula desligado. 
+  Deste modo, os encarregados de educação terão de matricular os seus educandos como se fosse a primeira vez, o que lhe permitirá criar as respetivas fichas na base de dados.
+  </p>
+</div>
+
+A caixa imediatamente abaixo dos interruptores indica-lhe o endereço do portal de inscrições online, que poderá divulgar junto dos encarregados de educação e interessados.
 
 Os restantes campos do painel permitem-lhe configurar um texto informativo a ser mostrado na página de inscrições, bem como a referência multibanco para receber donativos.
 
