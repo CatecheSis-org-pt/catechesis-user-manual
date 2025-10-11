@@ -821,24 +821,30 @@ _Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-min
 - Definir um texto informativo a ser mostrado na página de inscrição/renovação de matrículas online; 
 - Definir uma referência multibanco para pagamento da inscrição/renovação; 
 
-#### 2.18.3 Aproveitamento dos catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.3 Campos opcionais das fichas ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+
+- Ativar/desativar campos opcionais nas fichas dos catequizandos e nos formulários de inscrição/renovação online, como por exemplo o Número de Identificação Fiscal (NIF).
+- Quando o NIF está ativo, o campo é mostrado e torna-se obrigatório nas inscrições e na ficha do catequizando; quando está desativado, o campo é ocultado e deixa de ser obrigatório.
+- Utilize esta configuração para recolher apenas os dados estritamente necessários na sua paróquia, em conformidade com o RGPD.
+
+#### 2.18.4 Aproveitamento dos catequizandos ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Ativar/desativar a possibilidade de os catequistas registarem o aproveitamento dos catequizandos.
 
-#### 2.18.4 Catequese (operacionalização) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.5 Catequese (operacionalização) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir o dia em que a catequese é ministrada:
 - Definir o número de anos do percurso catequético (catecismos):
 
-#### 2.18.5 Integração com Nextcloud ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.6 Integração com Nextcloud ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Alteração das _URLs_ relacionadas com a Catequese Cloud.
 
-#### 2.18.6 Personalizar página pública ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.7 Personalizar página pública ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Se pretender uma página pública mais personalizada, é possivel definir uma imagem à sua escolha, como um logotipo da paróquia, uma fotografia da igreja, entre outros. Caso não seja definida nenhuma imagem o CatecheSis apresenta uma imagem padrão.
 
-#### 2.18.7 Dados da paróquia ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.8 Dados da paróquia ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir o logotipo da paróquia e as respetivas informações (nome, localidade, diocese e país).
 
@@ -851,9 +857,10 @@ geralmente entre Setembro e Junho, enquanto no Brasil costuma ser entre Março e
   </p>
 </div>
 
-#### 2.18.8 Proteção de dados (RGPD) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
+#### 2.18.9 Proteção de dados (RGPD) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
 - Definir os reponsáveis pelo tratamento de dados, necessários para o Regulamento Geral sobre a Proteção de Dados (RGPD). Estes dados são utilizados para gerar automaticamente a declaração de consentimento de tratamento de dados pessoais, apresentada aos encarregados de educação que efetuarem uma inscrição/renovação de matrícula online.
+
 
 
 ### 2.19 Monitorizar os acessos ao CatecheSis ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
