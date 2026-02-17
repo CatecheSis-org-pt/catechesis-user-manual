@@ -722,13 +722,29 @@ Aceda agora ao separador _Anos catequéticos existentes_ e selecione um ano cate
 
 Para adicionar um novo grupo de catequese, posicione-se na última linha da tabela. Seleccione um catecismo e um grupo nas caixas de selecção e clique em _Adicionar_.
 
+Para cada grupo, é apresentado o seu **Horário** na tabela. Por omissão, os grupos utilizam o dia e horário definidos nas configurações globais da paróquia.
+
 Para remover um grupo de catequese, posicione o rato sobre a respectiva linha da tabela. Surge então à direita, na mesma linha, o botão _Eliminar._
 
 ![](img/user_manual/2_efectuar_uma_tarefa/2.16.2_criar_e_gerir_grupos_de_catequese.png)
 
 <center><i> - Adicionar/remover grupos num ano catequético existente - </i></center><p></p>
 
-#### 2.16.3 Definir os catequistas para um grupo de catequese
+#### 2.16.3 Definir o horário específico para um grupo de catequese
+
+Por omissão, todos os grupos seguem o horário global da paróquia. No entanto, é possível definir um dia da semana ou horário diferente para um grupo específico.
+
+Aceda ao separador _Anos catequéticos existentes_ e selecione um ano catequético.
+
+Posicione o rato sobre a linha do grupo que pretende modificar e clique no botão _Definir dia da semana / horário_.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.16.2_criar_e_gerir_grupos_de_catequese.png)
+
+No painel que surge no fundo da página, selecione o dia da semana e as horas de início e fim desejadas. Para voltar a utilizar a predefinição da paróquia, selecione a opção _(Usar predefinição paroquial)_ no dia da semana e deixe os campos das horas vazios.
+
+Clique em _Guardar_ para aplicar as alterações.
+
+#### 2.16.4 Definir os catequistas para um grupo de catequese
 
 Aceda ao separador _Anos catequéticos existentes_ e selecione um ano catequético na caixa de selecção.
 
@@ -833,8 +849,9 @@ _Veja também [2.1 Modificar os dados da minha conta](#modificar-os-dados-da-min
 
 #### 2.18.5 Catequese (operacionalização) ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-- Definir o dia em que a catequese é ministrada:
-- Definir o número de anos do percurso catequético (catecismos):
+- **Definir o dia em que a catequese é ministrada**: Escolha o dia da semana padrão para as sessões de catequese na paróquia.
+- **Definir o horário padrão**: Configure a hora de início e de fim que será aplicada por omissão a todos os grupos de catequese.
+- **Definir o número de anos do percurso catequético (catecismos)**: Indique o número total de anos de catequese (ex: 10 anos).
 
 #### 2.18.6 Integração com Nextcloud ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
