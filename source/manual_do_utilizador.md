@@ -275,11 +275,26 @@ Aceda ao menu _Catequese_ e seleccione _Marcar presenças_.
 
 Selecione o ano, catecismo e grupo pretendido. Pode seleccionar uma sessão existente para a modificar, ou criar uma nova sessão seleccionando uma data no calendário.
 
-Para cada catequizando, utilize o interruptor à esquerda do nome para marcar a sua presença (verde) ou falta (vermelho). 
+Para cada catequizando, utilize o interruptor à esquerda do seu nome para marcar a sua presença (verde) ou falta (vermelho). 
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.6_marcar_presencas.png)
+![](img/user_manual/2_efectuar_uma_tarefa/2.6_marcar_presencas_lista.png)
+
+<center><i> - Registo de presenças dos catequizandos, no modo lista - </i></center><p></p>
+
+
+
+Em alternativa, pode ativar o modo "Quem é quem" através do ícone ![](img/user_manual/2_efectuar_uma_tarefa/icone_quem_e_quem.png).
+
+Na vista de cartões, levante os cartões dos catequizandos que estiveram presentes, e baixe os cartões daqueles que estiveram ausentes.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_registar_o_aproveitamento_dos_meus_catequizandos_cartoes.png)
+
+<center><i> - Registo de presenças dos catequizandos, no modo "Quem é quem" - </i></center><p></p>
 
 Para terminar, clique em _Guardar_, final da página.
+
+
+
 
 ### 2.7 Registar o aproveitamento dos catequizandos
 
@@ -287,25 +302,32 @@ Para terminar, clique em _Guardar_, final da página.
 
 Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
 
-Surge uma lista com todos os seus catequizandos actuais. Para cada catequizando, classifique o seu aproveitamento clicando ou deslizando o botão localizado à esquerda do seu nome.
+Para cada catequizando, classifique o seu aproveitamento clicando ou deslizando o botão localizado à esquerda do seu nome.
 
-Para terminar, clique em Guardar, no topo do ecrã.
+![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_registar_o_aproveitamento_dos_meus_catequizandos_lista.png)
 
-![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_registar_o_aproveitamento_dos_meus_catequizandos.png)
+<center><i> - Registo do aproveitamento dos catequizandos, no modo de lista - </i></center><p></p>
 
-<center><i> - Registo do aproveitamento dos meus catequizandos - </i></center><p></p>
+
+Em alternativa, pode ativar o modo "Quem é quem" através do ícone ![](img/user_manual/2_efectuar_uma_tarefa/icone_quem_e_quem.png).
+
+Na vista de cartões, levante os cartões dos catequizandos que transitam, e baixe os cartões daqueles que reprovam.
+
+![](img/user_manual/2_efectuar_uma_tarefa/2.6.1_registar_o_aproveitamento_dos_meus_catequizandos_cartoes.png)
+
+<center><i> - Registo do aproveitamento dos catequizandos, no modo "Quem é quem" - </i></center><p></p>
+
+
+Para terminar, clique em Guardar, no final da página.
+
 
 #### 2.7.2 Abrir/fechar o período de avaliação ![🅐🅓🅜🅘🅝🅘🅢🅣🅡🅐🅓🅞🅡](img/user_manual/badges/administrador.svg)
 
-Aceda ao menu _Catequese_ e seleccione _Aproveitamento dos catequizandos_.
-
-Se a sua conta for de _Administrador_, surgirá no topo da janela um painel semelhante ao da figura abaixo:
+Aceda à página de _Configurações_ (ícone da roda dentada no canto superior direito do ecrã), e procure o seguinte painel:
 
 ![](img/user_manual/2_efectuar_uma_tarefa/2.6.2_abrir_fechar_o_periodo_de_avaliacao.png)
 
 <center><i> - Abrir/fechar o período de avaliação - </i></center><p></p>
-
-Este painel também se contra no ecrã _Configurações_ (ícone da roda dentada no canto superior direito do ecrã). 
 
 Clique ou deslize o botão azul. Quando o botão está definido para _ON_, o período de avaliação está aberto, e todos os catequistas podem avaliar os seus catequizandos. Quando o botão está definido para _OFF_, os catequistas não poderão alterar a avaliação dos catequizandos.
 
